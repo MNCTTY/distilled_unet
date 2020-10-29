@@ -1,0 +1,6904 @@
+{
+	"_via_settings": {
+		"ui": {
+			"annotation_editor_height": 25,
+			"annotation_editor_fontsize": 0.8,
+			"leftsidebar_width": 18,
+			"image_grid": {
+				"img_height": 80,
+				"rshape_fill": "none",
+				"rshape_fill_opacity": 0.3,
+				"rshape_stroke": "yellow",
+				"rshape_stroke_width": 2,
+				"show_region_shape": true,
+				"show_image_policy": "all"
+			},
+			"image": {
+				"region_label": "__via_region_id__",
+				"region_color": "A3",
+				"region_label_font": "10px Sans",
+				"on_image_annotation_editor_placement": "NEAR_REGION"
+			}
+		},
+		"core": {
+			"buffer_size": "18",
+			"filepath": {
+				"pictures/": 1
+			},
+			"default_filepath": "pictures/"
+		},
+		"project": {
+			"name": "T2Tra_ Second_2"
+		}
+	},
+	"_via_img_metadata": {
+		"00124.PNG60432": {
+			"filename": "00124.PNG",
+			"size": 60432,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 135, 130, 131, 137, 147, 156, 169, 180, 185, 187, 184, 178, 166, 159],
+					"all_points_y": [126, 130, 141, 155, 163, 168, 169, 169, 164, 160, 149, 140, 130, 122, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 151, 158, 162, 164, 158, 152, 149, 147],
+					"all_points_y": [174, 179, 181, 177, 174, 171, 169, 169, 170]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 187, 187, 183, 181, 179, 177, 177],
+					"all_points_y": [172, 167, 166, 165, 165, 166, 168, 171]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [126, 131, 137, 139, 139, 134],
+					"all_points_y": [163, 169, 171, 170, 167, 164]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00125.PNG60527": {
+			"filename": "00125.PNG",
+			"size": 60527,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 152, 140, 138, 137, 137, 137, 137, 141, 152, 156, 165, 175, 187, 192, 186, 178, 166],
+					"all_points_y": [114, 114, 123, 127, 134, 137, 142, 144, 149, 153, 154, 156, 154, 147, 136, 120, 114, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 153, 157, 163, 168, 171, 171, 167, 165, 158, 155],
+					"all_points_y": [161, 167, 172, 173, 168, 162, 159, 156, 156, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 137, 142, 147, 147, 144],
+					"all_points_y": [151, 156, 160, 161, 158, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [191, 186, 188, 191, 193],
+					"all_points_y": [152, 158, 159, 158, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00126.PNG66207": {
+			"filename": "00126.PNG",
+			"size": 66207,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 133, 131, 135, 144, 152, 162, 176, 188, 193, 191, 180, 165, 155],
+					"all_points_y": [122, 131, 139, 149, 154, 155, 154, 155, 148, 140, 129, 119, 115, 116]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 160, 167, 171, 173, 172, 166, 161, 157, 155, 154],
+					"all_points_y": [165, 170, 168, 165, 159, 155, 154, 154, 155, 157, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0126.PNG62771": {
+			"filename": "0126.PNG",
+			"size": 62771,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 151, 151, 155, 159, 165, 169, 171, 168, 159, 156],
+					"all_points_y": [157, 162, 167, 170, 172, 171, 169, 162, 156, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 186, 180, 180, 186, 189, 192],
+					"all_points_y": [153, 153, 155, 157, 158, 157, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 133, 135, 139, 142, 143],
+					"all_points_y": [151, 153, 156, 156, 156, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00149.PNG54311": {
+			"filename": "00149.PNG",
+			"size": 54311,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 152, 152, 154, 163, 169, 170, 170, 169],
+					"all_points_y": [179, 179, 184, 191, 195, 191, 186, 181, 176]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00150.PNG64847": {
+			"filename": "00150.PNG",
+			"size": 64847,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 142, 137, 132, 131, 134, 139, 146, 150, 154, 161, 168, 176, 182, 187, 192, 195, 195, 189, 184, 166, 155],
+					"all_points_y": [117, 119, 124, 128, 135, 143, 150, 154, 156, 156, 154, 154, 155, 153, 147, 141, 137, 131, 122, 116, 111, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 161, 168, 172, 175, 175, 168, 161, 153, 152],
+					"all_points_y": [163, 169, 169, 164, 158, 156, 154, 154, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 196, 196, 194, 191, 190, 188],
+					"all_points_y": [153, 149, 147, 146, 148, 150, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 138, 140, 133],
+					"all_points_y": [151, 155, 154, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0151.PNG53315": {
+			"filename": "0151.PNG",
+			"size": 53315,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 137, 134, 131, 131, 135, 149, 163, 177, 185, 190, 186, 175, 161],
+					"all_points_y": [147, 154, 159, 166, 176, 184, 189, 190, 192, 187, 176, 160, 149, 144]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 155, 158, 163, 167, 167, 167, 164, 156, 152],
+					"all_points_y": [197, 203, 204, 203, 200, 196, 192, 191, 190, 191]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00152.PNG61976": {
+			"filename": "00152.PNG",
+			"size": 61976,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [141, 131, 125, 122, 124, 131, 145, 162, 172, 183, 190, 191, 184, 166, 157],
+					"all_points_y": [107, 112, 117, 126, 139, 146, 150, 151, 148, 141, 132, 121, 110, 104, 104]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 148, 153, 158, 161, 165, 165, 162, 161, 151, 147],
+					"all_points_y": [158, 164, 168, 167, 162, 158, 154, 152, 152, 151, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 178, 175, 173, 173, 179, 184, 184],
+					"all_points_y": [151, 151, 151, 153, 157, 159, 158, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 129, 128, 131, 136, 140],
+					"all_points_y": [150, 148, 151, 154, 154, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00204.PNG59546": {
+			"filename": "00204.PNG",
+			"size": 59546,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 136, 132, 133, 138, 150, 160, 173, 187, 192, 194, 188, 179, 161],
+					"all_points_y": [115, 122, 133, 139, 149, 155, 157, 157, 153, 148, 136, 124, 116, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 154, 158, 163, 167, 169, 167, 165, 160, 156, 154],
+					"all_points_y": [163, 168, 169, 169, 166, 162, 159, 158, 157, 157, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 137, 140, 139, 135, 132],
+					"all_points_y": [148, 155, 154, 152, 148, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [184, 191, 194, 190, 185, 184],
+					"all_points_y": [160, 158, 152, 152, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00206.PNG62175": {
+			"filename": "00206.PNG",
+			"size": 62175,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 151, 156, 160, 165, 168, 171, 170, 166, 164, 162, 158, 155],
+					"all_points_y": [159, 163, 169, 171, 169, 163, 160, 154, 153, 153, 153, 153, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00207.PNG51812": {
+			"filename": "00207.PNG",
+			"size": 51812,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 153, 159, 163, 166, 170, 172, 172, 168, 152, 149],
+					"all_points_y": [162, 170, 173, 173, 170, 167, 160, 154, 152, 152, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00209.PNG69134": {
+			"filename": "00209.PNG",
+			"size": 69134,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [140, 136, 136, 138, 141, 145],
+					"all_points_y": [153, 151, 156, 158, 157, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 190, 189, 187, 192, 195],
+					"all_points_y": [152, 152, 152, 156, 157, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00210.PNG62332": {
+			"filename": "00210.PNG",
+			"size": 62332,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 142, 136, 134, 134, 141, 148, 167, 176, 181, 188, 191, 191, 180, 170],
+					"all_points_y": [113, 119, 127, 133, 138, 148, 152, 151, 153, 152, 147, 139, 128, 118, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 160, 167, 172, 171, 167, 151, 150],
+					"all_points_y": [161, 168, 168, 163, 158, 153, 151, 152, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 194, 195, 194, 189, 186],
+					"all_points_y": [155, 153, 148, 148, 150, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 182, 188, 192, 196, 196, 192, 191, 188, 180, 176, 170, 172, 173],
+					"all_points_y": [157, 157, 159, 159, 157, 145, 141, 140, 147, 153, 153, 152, 159, 157]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0210.PNG63961": {
+			"filename": "0210.PNG",
+			"size": 63961,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 313,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00211.PNG51812": {
+			"filename": "00211.PNG",
+			"size": 51812,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 138, 135, 135, 137, 140, 148, 156, 170, 175, 181, 187, 188, 185, 177, 166],
+					"all_points_y": [115, 125, 132, 138, 142, 148, 151, 152, 152, 152, 152, 146, 139, 127, 120, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 154, 158, 164, 170, 172, 169, 168, 152, 150],
+					"all_points_y": [160, 169, 172, 172, 165, 159, 153, 152, 152, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00213.PNG58988": {
+			"filename": "00213.PNG",
+			"size": 58988,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 8,
+					"y": 7,
+					"width": 306,
+					"height": 296
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00240.PNG56335": {
+			"filename": "00240.PNG",
+			"size": 56335,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 3,
+					"width": 316,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0240.PNG62730": {
+			"filename": "0240.PNG",
+			"size": 62730,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 140, 129, 124, 124, 128, 135, 140, 143, 160, 169, 177, 187, 195, 201, 201, 194, 178, 167],
+					"all_points_y": [96, 103, 113, 122, 131, 140, 147, 151, 151, 151, 152, 151, 150, 145, 135, 123, 108, 98, 95]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 157, 165, 169, 171, 172, 171, 158, 152, 150],
+					"all_points_y": [162, 166, 167, 164, 159, 155, 152, 151, 151, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00241.PNG58873": {
+			"filename": "00241.PNG",
+			"size": 58873,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 144, 137, 132, 132, 133, 138, 147, 156, 166, 173, 181, 184, 183, 177, 167, 160],
+					"all_points_y": [118, 119, 124, 131, 138, 144, 154, 159, 157, 156, 155, 150, 144, 132, 124, 120, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 154, 162, 166, 170, 171, 169, 166, 154, 152, 149],
+					"all_points_y": [166, 171, 172, 169, 164, 160, 157, 156, 158, 158, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [185, 182, 179, 178, 179, 182, 184, 186],
+					"all_points_y": [153, 152, 155, 157, 159, 159, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 135, 138, 140, 141, 142, 140, 138],
+					"all_points_y": [156, 159, 160, 161, 160, 158, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00242.PNG61251": {
+			"filename": "00242.PNG",
+			"size": 61251,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 4,
+					"width": 313,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00278.PNG66461": {
+			"filename": "00278.PNG",
+			"size": 66461,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 130, 125, 122, 124, 132, 142, 150, 163, 177, 190, 195, 195, 188, 173, 163, 154],
+					"all_points_y": [102, 108, 116, 126, 139, 145, 150, 153, 154, 152, 142, 131, 118, 109, 102, 98, 98]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 151, 156, 159, 168, 169, 169, 169, 165, 153, 148, 146],
+					"all_points_y": [163, 173, 175, 175, 170, 161, 156, 154, 154, 154, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [195, 189, 184, 184, 188, 191, 193, 194],
+					"all_points_y": [146, 146, 149, 153, 154, 152, 150, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [125, 127, 131, 137, 135, 132],
+					"all_points_y": [148, 154, 154, 152, 148, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00279.PNG62656": {
+			"filename": "00279.PNG",
+			"size": 62656,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 140, 136, 133, 133, 135, 140, 143, 152, 168, 176, 183, 190, 189, 180, 165, 156],
+					"all_points_y": [117, 120, 125, 130, 137, 148, 155, 157, 158, 158, 157, 153, 145, 130, 120, 114, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 160, 165, 167, 171, 170, 169, 155, 152, 150],
+					"all_points_y": [165, 171, 174, 172, 166, 162, 158, 158, 158, 158, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 185, 183, 182, 183, 186, 187],
+					"all_points_y": [154, 154, 154, 157, 158, 158, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 184, 188, 192, 190, 186, 180, 176, 170, 171],
+					"all_points_y": [160, 162, 162, 158, 151, 150, 155, 158, 158, 162]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 134, 136, 138, 139, 136],
+					"all_points_y": [154, 158, 159, 159, 157, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 132, 135, 140, 143, 147, 150, 150, 143, 141, 137, 135],
+					"all_points_y": [157, 162, 162, 160, 160, 161, 163, 158, 157, 156, 151, 149]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0279.PNG56995": {
+			"filename": "0279.PNG",
+			"size": 56995,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [163, 149, 141, 138, 137, 138, 145, 155, 167, 175, 187, 195, 199, 199, 191, 175],
+					"all_points_y": [111, 116, 121, 132, 138, 141, 147, 152, 152, 153, 151, 146, 142, 132, 119, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 162, 170, 175, 178, 178, 176, 166, 161, 158, 157],
+					"all_points_y": [163, 170, 169, 164, 161, 157, 153, 152, 152, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 197, 206, 204, 200, 198],
+					"all_points_y": [154, 154, 150, 148, 147, 147]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 139, 146, 145, 141],
+					"all_points_y": [147, 153, 154, 151, 148]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 202, 207, 211, 208, 205, 200, 193, 186, 177, 178, 178, 183],
+					"all_points_y": [157, 159, 157, 149, 140, 138, 142, 148, 152, 153, 158, 162, 159]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 136, 143, 151, 156, 157, 160, 153, 144, 137, 134, 131],
+					"all_points_y": [150, 156, 155, 157, 160, 157, 153, 151, 147, 140, 142, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00281.PNG64661": {
+			"filename": "00281.PNG",
+			"size": 64661,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 142, 135, 133, 133, 134, 141, 154, 164, 172, 179, 185, 187, 183, 173, 166],
+					"all_points_y": [113, 117, 124, 134, 142, 148, 152, 155, 155, 154, 151, 146, 137, 125, 116, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [164, 158, 153, 151, 152, 155, 160, 165, 167],
+					"all_points_y": [161, 159, 160, 162, 167, 169, 169, 167, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 180, 176, 176, 178, 181, 183],
+					"all_points_y": [153, 154, 157, 159, 160, 160, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [137, 141, 143, 143, 137, 134, 135],
+					"all_points_y": [160, 161, 159, 156, 153, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0304.PNG65975": {
+			"filename": "0304.PNG",
+			"size": 65975,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 315,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00306.PNG64738": {
+			"filename": "00306.PNG",
+			"size": 64738,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 140, 129, 124, 127, 138, 148, 157, 168, 175, 182, 190, 193, 190, 186, 176],
+					"all_points_y": [110, 114, 124, 137, 150, 158, 158, 158, 158, 161, 159, 153, 142, 129, 120, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 155, 161, 166, 167, 166, 145, 144, 145],
+					"all_points_y": [168, 171, 171, 167, 162, 158, 158, 162, 164]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [190, 195, 195, 191, 189, 188],
+					"all_points_y": [159, 157, 154, 155, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [120, 123, 128, 128, 123],
+					"all_points_y": [151, 156, 157, 155, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00307.PNG64491": {
+			"filename": "00307.PNG",
+			"size": 64491,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 141, 135, 135, 137, 140, 150, 160, 167, 176, 188, 188, 183, 168, 163],
+					"all_points_y": [105, 111, 116, 125, 132, 137, 141, 144, 142, 139, 133, 125, 111, 104, 104]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 158, 164, 169, 171, 171, 171, 168, 165, 158, 156, 151, 149],
+					"all_points_y": [153, 160, 162, 160, 155, 151, 148, 145, 143, 143, 144, 143, 143, 147]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [187, 184, 180, 180, 184, 186, 188],
+					"all_points_y": [139, 139, 142, 145, 145, 145, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 134, 136, 139, 142, 142],
+					"all_points_y": [141, 141, 146, 148, 146, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00309.PNG60534": {
+			"filename": "00309.PNG",
+			"size": 60534,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 147, 141, 136, 136, 139, 147, 157, 168, 181, 190, 197, 196, 188, 174],
+					"all_points_y": [115, 117, 122, 129, 138, 145, 154, 156, 156, 155, 151, 141, 130, 119, 114]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 164, 168, 172, 172, 170, 160, 159],
+					"all_points_y": [163, 168, 167, 163, 159, 156, 157, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [198, 196, 194, 192, 194],
+					"all_points_y": [147, 152, 154, 152, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 138, 145, 145, 142],
+					"all_points_y": [149, 153, 156, 154, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0309.PNG64158": {
+			"filename": "0309.PNG",
+			"size": 64158,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [163, 137, 133, 128, 128, 147, 157, 170, 181, 189, 193, 189, 180],
+					"all_points_y": [109, 116, 124, 133, 140, 154, 156, 154, 150, 144, 136, 121, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 155, 162, 166, 168, 168, 166, 160, 155, 153],
+					"all_points_y": [162, 168, 169, 163, 160, 158, 156, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 184, 181, 186, 189, 190],
+					"all_points_y": [152, 152, 157, 159, 156, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00311.PNG61774": {
+			"filename": "00311.PNG",
+			"size": 61774,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 150, 144, 139, 135, 134, 135, 141, 145, 155, 165, 175, 180, 187, 190, 187, 176],
+					"all_points_y": [109, 111, 115, 122, 129, 135, 141, 148, 151, 149, 149, 150, 149, 143, 132, 122, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 155, 160, 165, 168, 172, 173, 171, 160, 154, 147, 146],
+					"all_points_y": [157, 164, 166, 166, 160, 157, 152, 150, 149, 150, 151, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [194, 190, 189, 195],
+					"all_points_y": [148, 147, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 130, 132, 137, 137],
+					"all_points_y": [152, 152, 154, 154, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00312.PNG64007": {
+			"filename": "00312.PNG",
+			"size": 64007,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 137, 133, 131, 136, 144, 155, 161, 173, 185, 188, 188, 182, 177, 169, 159, 152],
+					"all_points_y": [114, 120, 127, 134, 142, 150, 153, 154, 152, 145, 139, 130, 120, 117, 114, 112, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 176, 176, 178, 182, 184, 184],
+					"all_points_y": [151, 152, 155, 156, 155, 152, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 136, 138, 139, 146, 143],
+					"all_points_y": [151, 151, 154, 156, 156, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 152, 154, 159, 161, 163, 166, 166, 163, 158, 155],
+					"all_points_y": [156, 161, 164, 167, 166, 166, 163, 158, 155, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0312.PNG59497": {
+			"filename": "0312.PNG",
+			"size": 59497,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 144, 137, 133, 135, 141, 149, 161, 174, 184, 192, 193, 185, 172, 168],
+					"all_points_y": [112, 115, 124, 135, 141, 150, 155, 157, 155, 152, 142, 131, 120, 114, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 156, 161, 165, 169, 173, 173, 171, 160, 156],
+					"all_points_y": [163, 167, 169, 169, 166, 162, 157, 156, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00314.PNG64088": {
+			"filename": "00314.PNG",
+			"size": 64088,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 4,
+					"width": 315,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0315.PNG65335": {
+			"filename": "0315.PNG",
+			"size": 65335,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 9,
+					"y": 2,
+					"width": 305,
+					"height": 296
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00317.PNG69401": {
+			"filename": "00317.PNG",
+			"size": 69401,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 142, 136, 134, 133, 133, 137, 146, 159, 177, 185, 191, 193, 187, 174, 167],
+					"all_points_y": [116, 118, 126, 131, 139, 145, 152, 155, 158, 157, 154, 151, 137, 122, 115, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 158, 162, 166, 168, 166, 162, 156],
+					"all_points_y": [161, 166, 167, 167, 164, 159, 158, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 193, 190, 188, 188, 191],
+					"all_points_y": [154, 157, 157, 156, 154, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00319.PNG61774": {
+			"filename": "00319.PNG",
+			"size": 61774,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 140, 134, 134, 134, 135, 139, 145, 155, 169, 181, 189, 191, 184, 175, 165, 159],
+					"all_points_y": [113, 116, 127, 133, 137, 141, 147, 150, 150, 149, 150, 143, 132, 119, 114, 111, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 155, 162, 167, 173, 171, 165, 148, 145],
+					"all_points_y": [159, 166, 167, 163, 154, 149, 150, 151, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [191, 189, 187, 189, 192, 194, 194],
+					"all_points_y": [148, 148, 151, 153, 153, 151, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0319.PNG58095": {
+			"filename": "0319.PNG",
+			"size": 58095,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 141, 134, 130, 129, 131, 137, 155, 159, 170, 180, 188, 191, 191, 186, 179, 167],
+					"all_points_y": [115, 118, 124, 130, 138, 143, 153, 160, 160, 158, 155, 149, 143, 132, 122, 116, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 153, 159, 165, 170, 170, 158, 155],
+					"all_points_y": [163, 169, 172, 171, 164, 158, 160, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 135, 138, 142, 142, 138],
+					"all_points_y": [155, 160, 162, 161, 157, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00320.PNG51606": {
+			"filename": "00320.PNG",
+			"size": 51606,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 142, 134, 132, 134, 139, 149, 163, 179, 187, 193, 196, 194, 191, 179, 166, 160],
+					"all_points_y": [114, 114, 120, 129, 140, 148, 152, 154, 151, 150, 146, 139, 128, 119, 113, 110, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 152, 157, 161, 168, 172, 175, 175, 170, 164, 155],
+					"all_points_y": [159, 167, 171, 173, 173, 169, 163, 157, 154, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00322.PNG64088": {
+			"filename": "00322.PNG",
+			"size": 64088,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 142, 135, 135, 137, 140, 146, 165, 174, 180, 187, 187, 182, 169],
+					"all_points_y": [115, 119, 129, 136, 144, 151, 155, 156, 156, 155, 148, 137, 125, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 155, 160, 165, 170, 170, 167, 154, 149, 149],
+					"all_points_y": [163, 170, 171, 166, 162, 158, 156, 156, 156, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0322.PNG63756": {
+			"filename": "0322.PNG",
+			"size": 63756,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 315,
+					"height": 305
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0335.PNG50580": {
+			"filename": "0335.PNG",
+			"size": 50580,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [164, 152, 142, 138, 136, 139, 144, 156, 164, 173, 184, 193, 200, 203, 205, 200, 190, 179],
+					"all_points_y": [133, 135, 145, 153, 163, 175, 180, 182, 186, 187, 188, 186, 180, 171, 162, 147, 139, 135]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 160, 166, 174, 179, 180, 163, 156, 154],
+					"all_points_y": [188, 199, 200, 199, 192, 188, 186, 183, 184]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00337.PNG49582": {
+			"filename": "00337.PNG",
+			"size": 49582,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 9,
+					"y": 4,
+					"width": 240,
+					"height": 246
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00338.PNG61102": {
+			"filename": "00338.PNG",
+			"size": 61102,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 3,
+					"width": 315,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0340.PNG65442": {
+			"filename": "0340.PNG",
+			"size": 65442,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 132, 127, 127, 129, 132, 137, 150, 161, 178, 189, 191, 187, 177, 157],
+					"all_points_y": [121, 131, 140, 147, 152, 158, 161, 164, 164, 165, 159, 149, 135, 123, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [145, 145, 152, 159, 165, 171, 171, 167, 149, 147],
+					"all_points_y": [171, 179, 185, 186, 183, 175, 168, 164, 165, 164]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00342.PNG67230": {
+			"filename": "00342.PNG",
+			"size": 67230,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 153, 145, 134, 128, 128, 132, 138, 142, 151, 161, 175, 184, 190, 193, 194, 187, 180, 174],
+					"all_points_y": [103, 104, 105, 112, 123, 136, 144, 150, 152, 151, 151, 151, 150, 147, 139, 128, 114, 107, 105]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 155, 162, 167, 171, 171, 162, 153, 151],
+					"all_points_y": [157, 164, 167, 161, 156, 152, 151, 151, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 134, 135, 136, 131, 129],
+					"all_points_y": [151, 153, 153, 152, 149, 148]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 193, 189, 191, 197],
+					"all_points_y": [142, 146, 150, 151, 144]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00343.PNG64661": {
+			"filename": "00343.PNG",
+			"size": 64661,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 154, 147, 138, 135, 132, 132, 136, 145, 152, 160, 168, 177, 184, 187, 183, 171],
+					"all_points_y": [113, 113, 115, 121, 125, 134, 142, 150, 153, 154, 155, 155, 153, 146, 138, 126, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 151, 151, 154, 159, 161, 165, 166, 164],
+					"all_points_y": [159, 161, 165, 169, 170, 169, 166, 163, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 180, 177, 175, 175, 180, 181, 183],
+					"all_points_y": [154, 154, 155, 158, 160, 160, 159, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 134, 139, 142, 143, 143],
+					"all_points_y": [154, 157, 161, 161, 158, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00345.PNG55966": {
+			"filename": "00345.PNG",
+			"size": 55966,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 148, 143, 137, 133, 133, 137, 143, 155, 169, 178, 187, 189, 180, 172],
+					"all_points_y": [105, 107, 107, 112, 120, 128, 135, 140, 144, 143, 140, 131, 126, 113, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 156, 160, 166, 169, 169, 166, 154, 152],
+					"all_points_y": [151, 158, 158, 154, 151, 146, 143, 144, 144]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 184, 181, 182, 188, 190],
+					"all_points_y": [139, 140, 144, 145, 143, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [176, 185, 192, 192, 190, 188, 187, 178, 167, 169, 170, 172],
+					"all_points_y": [147, 149, 146, 142, 137, 132, 132, 140, 144, 146, 151, 147]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 133, 138, 139, 135],
+					"all_points_y": [138, 142, 144, 141, 138]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [129, 134, 139, 146, 150, 154, 154, 148, 143, 135, 132, 130],
+					"all_points_y": [144, 147, 147, 147, 150, 145, 144, 142, 141, 132, 135, 138]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0345.PNG60260": {
+			"filename": "0345.PNG",
+			"size": 60260,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 152, 138, 129, 126, 126, 127, 134, 144, 153, 161, 177, 187, 192, 194, 191, 186, 170],
+					"all_points_y": [111, 111, 118, 127, 132, 140, 146, 153, 157, 155, 156, 158, 153, 145, 137, 128, 119, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 160, 165, 167, 171, 171, 169, 154, 150, 149],
+					"all_points_y": [165, 168, 171, 171, 165, 162, 158, 157, 155, 158, 161]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 187, 187, 191, 197],
+					"all_points_y": [148, 155, 156, 156, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 191, 197, 201, 201, 200, 196, 192, 188, 177, 171, 171, 173],
+					"all_points_y": [163, 163, 160, 154, 148, 143, 143, 145, 153, 158, 158, 162, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 132, 135, 134, 128],
+					"all_points_y": [153, 157, 157, 155, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [124, 129, 138, 145, 148, 150, 153, 144, 133, 129],
+					"all_points_y": [156, 164, 163, 161, 161, 159, 155, 157, 153, 149]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00348.PNG66461": {
+			"filename": "00348.PNG",
+			"size": 66461,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 127, 123, 122, 127, 134, 149, 164, 176, 188, 195, 196, 183, 167],
+					"all_points_y": [99, 109, 121, 129, 140, 146, 153, 153, 150, 144, 135, 118, 105, 98]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 150, 156, 161, 167, 169, 169, 168, 160, 150, 148],
+					"all_points_y": [161, 170, 175, 175, 170, 161, 154, 152, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 190, 184, 184, 186, 188, 191, 194],
+					"all_points_y": [147, 145, 149, 152, 153, 153, 153, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 127, 126, 126, 127, 132, 136, 136, 136],
+					"all_points_y": [146, 146, 149, 152, 154, 153, 151, 150, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0348.PNG54010": {
+			"filename": "0348.PNG",
+			"size": 54010,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [165, 155, 144, 138, 135, 133, 136, 145, 155, 164, 177, 186, 193, 197, 192, 180],
+					"all_points_y": [111, 113, 118, 124, 129, 138, 146, 153, 155, 156, 155, 150, 143, 133, 122, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [197, 191, 188, 192, 197, 198],
+					"all_points_y": [148, 150, 153, 153, 151, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 157, 162, 168, 170, 172, 172, 166, 155],
+					"all_points_y": [159, 163, 166, 167, 163, 158, 156, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00350.PNG64231": {
+			"filename": "00350.PNG",
+			"size": 64231,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 135, 130, 128, 132, 142, 157, 176, 186, 196, 198, 191, 184, 163],
+					"all_points_y": [110, 116, 123, 135, 142, 150, 155, 153, 149, 139, 128, 117, 112, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [162, 156, 155, 155, 159, 164, 169, 169],
+					"all_points_y": [158, 158, 161, 164, 166, 166, 163, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [192, 186, 180, 179, 180, 185, 190, 191],
+					"all_points_y": [150, 151, 152, 154, 158, 158, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 135, 139, 145, 145, 143, 143],
+					"all_points_y": [152, 156, 159, 158, 156, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00351.PNG63296": {
+			"filename": "00351.PNG",
+			"size": 63296,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 149, 143, 136, 131, 126, 129, 141, 150, 163, 175, 186, 194, 199, 196, 188, 172],
+					"all_points_y": [103, 105, 107, 111, 116, 129, 140, 147, 149, 149, 148, 144, 140, 132, 120, 110, 104]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 152, 154, 158, 164, 168, 171, 172, 171, 169, 165, 155, 154],
+					"all_points_y": [155, 159, 162, 164, 163, 161, 158, 156, 152, 149, 149, 150, 151]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 194, 194, 186, 184],
+					"all_points_y": [150, 146, 142, 146, 147]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0351.PNG60768": {
+			"filename": "0351.PNG",
+			"size": 60768,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 142, 137, 136, 136, 142, 167, 172, 182, 186, 192, 195, 195, 187, 178, 167],
+					"all_points_y": [106, 113, 119, 127, 133, 142, 149, 149, 146, 147, 139, 133, 121, 109, 106, 105]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 157, 164, 168, 168, 157, 155, 154],
+					"all_points_y": [152, 155, 156, 153, 149, 146, 147, 148]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00352.PNG61928": {
+			"filename": "00352.PNG",
+			"size": 61928,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 149, 137, 136, 135, 139, 144, 155, 166, 178, 184, 191, 193, 193, 186, 170],
+					"all_points_y": [108, 111, 123, 129, 135, 145, 150, 151, 152, 152, 149, 142, 134, 126, 115, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 155, 162, 168, 172, 170, 156, 153],
+					"all_points_y": [159, 163, 164, 163, 157, 153, 151, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 189, 186, 193, 195],
+					"all_points_y": [145, 152, 151, 144, 144]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 131, 138, 140, 137, 133],
+					"all_points_y": [144, 147, 152, 151, 146, 144]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00353.PNG60222": {
+			"filename": "00353.PNG",
+			"size": 60222,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 141, 131, 131, 130, 131, 140, 152, 164, 175, 185, 196, 200, 204, 204, 199, 190, 180, 167],
+					"all_points_y": [102, 105, 117, 123, 126, 135, 147, 151, 153, 152, 150, 144, 141, 133, 125, 116, 107, 103, 101]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 160, 165, 171, 175, 175, 175, 159, 157],
+					"all_points_y": [157, 161, 163, 162, 158, 155, 152, 153, 152]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [125, 131, 135, 131, 128],
+					"all_points_y": [138, 145, 147, 141, 138]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [124, 133, 138, 142, 148, 153, 156, 159, 145, 140, 131, 130, 127, 126, 123, 123],
+					"all_points_y": [146, 155, 155, 152, 152, 155, 156, 152, 149, 147, 134, 134, 135, 135, 138, 141]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0354.PNG59390": {
+			"filename": "0354.PNG",
+			"size": 59390,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 139, 135, 130, 127, 127, 135, 144, 158, 170, 178, 185, 196, 201, 199, 189, 177, 167],
+					"all_points_y": [103, 110, 113, 122, 133, 142, 153, 157, 155, 156, 157, 157, 151, 137, 121, 109, 102, 100]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 160, 166, 172, 176, 175, 159, 158, 154, 150],
+					"all_points_y": [164, 169, 170, 165, 160, 157, 156, 155, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00356.PNG73814": {
+			"filename": "00356.PNG",
+			"size": 73814,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 153, 140, 135, 130, 129, 130, 136, 144, 161, 173, 183, 191, 193, 190, 184, 170],
+					"all_points_y": [107, 107, 111, 117, 124, 129, 136, 146, 151, 154, 154, 151, 146, 134, 122, 114, 107]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 153, 161, 164, 170, 168, 155, 152, 151],
+					"all_points_y": [161, 167, 169, 166, 158, 154, 154, 153, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 188, 191, 191, 189, 187, 185, 183],
+					"all_points_y": [156, 156, 155, 152, 151, 151, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [175, 188, 194, 194, 191, 179, 174, 169, 170],
+					"all_points_y": [158, 160, 157, 149, 147, 152, 155, 155, 159]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00357.PNG64085": {
+			"filename": "00357.PNG",
+			"size": 64085,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 141, 134, 129, 127, 127, 132, 138, 153, 168, 176, 182, 185, 185, 182, 169, 154, 149],
+					"all_points_y": [117, 117, 121, 126, 135, 142, 150, 154, 154, 155, 153, 149, 144, 133, 124, 117, 113, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 152, 154, 157, 160, 162, 159, 158, 154, 151],
+					"all_points_y": [160, 164, 165, 165, 164, 160, 155, 155, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0357.PNG63384": {
+			"filename": "0357.PNG",
+			"size": 63384,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 139, 132, 128, 126, 128, 134, 147, 159, 169, 176, 187, 194, 194, 194, 186, 183, 180],
+					"all_points_y": [109, 115, 122, 126, 133, 142, 148, 151, 152, 152, 153, 150, 143, 134, 126, 118, 114, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 153, 155, 158, 162, 168, 169, 167, 166, 157],
+					"all_points_y": [155, 160, 164, 166, 166, 162, 159, 155, 153, 152]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 136, 137, 137, 136, 134, 132, 131],
+					"all_points_y": [154, 156, 156, 154, 153, 152, 152, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00360.PNG61928": {
+			"filename": "00360.PNG",
+			"size": 61928,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 146, 137, 134, 132, 134, 138, 143, 148, 159, 165, 179, 190, 193, 192, 187, 183, 168, 158],
+					"all_points_y": [113, 113, 120, 126, 131, 139, 145, 149, 151, 154, 153, 153, 146, 137, 127, 119, 114, 110, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 155, 158, 162, 166, 170, 172, 172, 163, 155, 154],
+					"all_points_y": [158, 162, 164, 165, 164, 160, 156, 153, 153, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 131, 141, 141, 137, 131],
+					"all_points_y": [145, 149, 152, 151, 146, 145]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00370.PNG62771": {
+			"filename": "00370.PNG",
+			"size": 62771,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 150, 150, 154, 158, 164, 170, 171, 169, 166, 163],
+					"all_points_y": [156, 160, 164, 169, 171, 171, 169, 165, 159, 157, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 137, 142, 141, 134],
+					"all_points_y": [154, 157, 159, 154, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 180, 179, 181, 190],
+					"all_points_y": [152, 155, 156, 160, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0372.PNG54069": {
+			"filename": "0372.PNG",
+			"size": 54069,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 313,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00373.PNG68539": {
+			"filename": "00373.PNG",
+			"size": 68539,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 3,
+					"width": 314,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00375.PNG59484": {
+			"filename": "00375.PNG",
+			"size": 59484,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 144, 138, 136, 140, 148, 156, 165, 180, 186, 194, 198, 198, 192, 182, 174],
+					"all_points_y": [112, 117, 126, 140, 148, 152, 154, 154, 154, 152, 148, 139, 128, 119, 114, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 158, 163, 170, 175, 176, 175, 158, 156],
+					"all_points_y": [158, 164, 167, 165, 158, 156, 154, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 134, 138, 141, 139],
+					"all_points_y": [149, 153, 154, 154, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0375.PNG62579": {
+			"filename": "0375.PNG",
+			"size": 62579,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 132, 127, 125, 128, 135, 142, 154, 166, 174, 182, 186, 188, 185, 176, 169, 158],
+					"all_points_y": [98, 107, 117, 124, 130, 137, 141, 142, 142, 140, 135, 128, 121, 110, 100, 98, 97]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [145, 149, 152, 156, 162, 167, 167, 166, 154, 148, 146],
+					"all_points_y": [147, 152, 154, 156, 154, 148, 144, 142, 142, 141, 143]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 128, 128, 131, 135, 135],
+					"all_points_y": [139, 140, 143, 144, 144, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 180, 180, 184, 188, 188],
+					"all_points_y": [137, 140, 144, 144, 141, 140]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [174, 182, 188, 195, 190, 187, 186, 182, 174, 166, 167, 168],
+					"all_points_y": [145, 147, 147, 142, 135, 132, 128, 135, 140, 142, 145, 147]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [125, 124, 127, 130, 133, 137, 143, 145, 148, 142, 134, 129, 126],
+					"all_points_y": [140, 144, 147, 148, 148, 147, 146, 147, 142, 141, 136, 132, 134]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00376.PNG63190": {
+			"filename": "00376.PNG",
+			"size": 63190,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 147, 139, 134, 133, 135, 139, 148, 159, 174, 181, 187, 190, 192, 190, 180, 168],
+					"all_points_y": [118, 120, 127, 137, 141, 148, 154, 158, 158, 160, 159, 156, 150, 142, 133, 123, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 156, 162, 167, 171, 172, 171, 166, 158, 154, 152],
+					"all_points_y": [166, 172, 173, 171, 165, 163, 160, 159, 158, 158, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 136, 134, 137, 142, 144],
+					"all_points_y": [160, 158, 160, 163, 164, 163]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 182, 185, 188, 193],
+					"all_points_y": [158, 163, 164, 164, 160]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 130, 132, 136, 141, 147, 151, 152, 154, 148, 139, 136],
+					"all_points_y": [154, 162, 166, 166, 166, 164, 164, 160, 158, 158, 154, 149]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [176, 182, 186, 191, 194, 194, 194, 190, 187, 181, 174, 171, 172],
+					"all_points_y": [164, 166, 166, 165, 162, 155, 152, 149, 156, 159, 160, 160, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00378.PNG52936": {
+			"filename": "00378.PNG",
+			"size": 52936,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 146, 137, 130, 128, 128, 131, 136, 149, 166, 178, 185, 190, 192, 184, 172],
+					"all_points_y": [108, 111, 116, 124, 134, 140, 146, 152, 155, 157, 154, 148, 142, 132, 117, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 148, 154, 158, 162, 165, 170, 167, 166, 154, 150],
+					"all_points_y": [162, 170, 174, 174, 174, 169, 163, 158, 158, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0380.PNG61270": {
+			"filename": "0380.PNG",
+			"size": 61270,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 159, 140, 134, 130, 134, 143, 151, 160, 171, 182, 191, 194, 189, 180, 168],
+					"all_points_y": [108, 107, 116, 122, 136, 146, 153, 156, 159, 156, 153, 146, 136, 123, 112, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 152, 159, 164, 168, 173, 171, 168, 165, 160, 154],
+					"all_points_y": [163, 167, 172, 172, 170, 163, 160, 159, 158, 160, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [191, 186, 186, 187, 188, 189, 193, 193],
+					"all_points_y": [151, 154, 156, 157, 158, 158, 155, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00382.PNG54759": {
+			"filename": "00382.PNG",
+			"size": 54759,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 3,
+					"width": 314,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00383.PNG59346": {
+			"filename": "00383.PNG",
+			"size": 59346,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 154, 141, 135, 134, 138, 146, 155, 169, 178, 186, 187, 186, 182, 171, 164],
+					"all_points_y": [115, 115, 120, 130, 144, 151, 155, 156, 155, 151, 144, 136, 126, 120, 115, 114]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [163, 156, 153, 153, 158, 162, 167, 170, 171],
+					"all_points_y": [158, 159, 163, 169, 174, 174, 170, 163, 161]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 183, 180, 177, 177, 182, 185, 186],
+					"all_points_y": [150, 150, 153, 155, 159, 158, 156, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 142, 139, 138, 139, 143, 147, 148],
+					"all_points_y": [158, 155, 155, 158, 161, 162, 163, 161]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0385.PNG59712": {
+			"filename": "0385.PNG",
+			"size": 59712,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [164, 164, 154, 150, 150, 154, 163, 167, 169, 168],
+					"all_points_y": [154, 154, 154, 157, 162, 168, 170, 166, 162, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00386.PNG64088": {
+			"filename": "00386.PNG",
+			"size": 64088,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 142, 136, 135, 137, 142, 148, 160, 173, 180, 186, 186, 181, 166],
+					"all_points_y": [115, 120, 129, 137, 145, 152, 155, 157, 156, 154, 146, 134, 125, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 155, 161, 164, 169, 170, 169, 160, 149, 149],
+					"all_points_y": [162, 169, 171, 167, 162, 159, 156, 157, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00387.PNG60389": {
+			"filename": "00387.PNG",
+			"size": 60389,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [167, 156, 146, 137, 134, 135, 141, 153, 165, 174, 184, 190, 190, 187, 176],
+					"all_points_y": [114, 114, 118, 127, 135, 142, 150, 155, 158, 159, 154, 143, 136, 125, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 148, 152, 159, 164, 167, 167, 167, 157, 152, 150],
+					"all_points_y": [161, 164, 168, 170, 169, 166, 160, 159, 156, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 184, 182, 183, 186, 190, 191],
+					"all_points_y": [156, 156, 160, 162, 164, 161, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 129, 129, 134, 136, 138, 138],
+					"all_points_y": [149, 149, 152, 156, 156, 155, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00390.PNG54759": {
+			"filename": "00390.PNG",
+			"size": 54759,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 315,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0390.PNG57473": {
+			"filename": "0390.PNG",
+			"size": 57473,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [165, 165, 156, 137, 132, 132, 136, 144, 157, 168, 180, 188, 194, 194, 185, 174],
+					"all_points_y": [99, 99, 99, 109, 118, 126, 136, 144, 149, 150, 145, 139, 132, 118, 106, 101]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 158, 158, 160, 163, 166, 170, 172, 170, 161, 159],
+					"all_points_y": [153, 157, 158, 161, 162, 162, 160, 154, 150, 150, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [194, 188, 191, 195, 196],
+					"all_points_y": [139, 147, 147, 143, 139]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [140, 135, 135, 142, 146, 147, 144],
+					"all_points_y": [145, 146, 150, 154, 152, 150, 147]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00391.PNG65797": {
+			"filename": "00391.PNG",
+			"size": 65797,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 141, 134, 135, 138, 145, 156, 168, 182, 193, 196, 193, 188, 173],
+					"all_points_y": [109, 116, 125, 135, 144, 149, 153, 153, 153, 147, 139, 124, 116, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 155, 158, 164, 170, 174, 173, 171, 161, 157],
+					"all_points_y": [158, 162, 166, 168, 166, 161, 156, 153, 153, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [192, 187, 183, 183, 189, 193],
+					"all_points_y": [155, 152, 156, 158, 160, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [141, 137, 137, 143, 148, 146],
+					"all_points_y": [151, 151, 155, 158, 156, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00392.PNG58379": {
+			"filename": "00392.PNG",
+			"size": 58379,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 135, 130, 127, 130, 132, 138, 143, 148, 158, 172, 181, 189, 191, 190, 182, 170],
+					"all_points_y": [109, 118, 125, 132, 141, 147, 152, 154, 155, 155, 154, 151, 146, 136, 125, 115, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 151, 154, 161, 165, 169, 169, 165, 161, 153],
+					"all_points_y": [158, 163, 168, 169, 168, 166, 159, 155, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 134, 136, 137, 129, 128],
+					"all_points_y": [153, 157, 157, 154, 149, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00395.PNG60389": {
+			"filename": "00395.PNG",
+			"size": 60389,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [166, 152, 139, 135, 133, 135, 144, 152, 163, 172, 176, 184, 188, 191, 188, 181],
+					"all_points_y": [114, 115, 123, 130, 138, 145, 152, 156, 158, 159, 160, 154, 148, 140, 128, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 149, 155, 161, 165, 167, 167, 167, 155, 150, 149],
+					"all_points_y": [162, 166, 170, 170, 167, 165, 161, 159, 157, 155, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [191, 184, 181, 184, 188, 190, 192],
+					"all_points_y": [157, 156, 160, 162, 162, 161, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 128, 128, 130, 134, 137, 140, 138],
+					"all_points_y": [149, 148, 151, 154, 156, 156, 155, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0395.PNG59900": {
+			"filename": "0395.PNG",
+			"size": 59900,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 1,
+					"width": 316,
+					"height": 304
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00396.PNG60432": {
+			"filename": "00396.PNG",
+			"size": 60432,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 141, 132, 131, 133, 143, 152, 165, 175, 185, 189, 190, 184, 176, 165],
+					"all_points_y": [117, 120, 129, 141, 148, 155, 160, 160, 157, 150, 145, 138, 127, 121, 116]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 150, 155, 159, 164, 167, 167, 165, 153],
+					"all_points_y": [164, 168, 174, 174, 172, 166, 162, 160, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 134, 136, 137, 140, 141, 141],
+					"all_points_y": [154, 154, 157, 159, 159, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [187, 185, 181, 178, 178, 181, 183, 186, 188],
+					"all_points_y": [154, 153, 154, 157, 159, 160, 159, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00408.PNG65198": {
+			"filename": "00408.PNG",
+			"size": 65198,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 143, 138, 133, 133, 135, 140, 147, 160, 176, 180, 190, 193, 195, 190, 186, 169],
+					"all_points_y": [101, 105, 109, 119, 128, 135, 142, 146, 148, 148, 148, 142, 136, 126, 115, 109, 101]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 150, 151, 153, 157, 164, 168, 172, 172, 169, 167, 158],
+					"all_points_y": [152, 157, 163, 167, 170, 170, 165, 158, 153, 150, 148, 148]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [187, 183, 178, 178, 182, 185, 189],
+					"all_points_y": [149, 149, 152, 153, 154, 154, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00409.PNG51888": {
+			"filename": "00409.PNG",
+			"size": 51888,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [171, 167, 160, 152, 139, 135, 135, 137, 145, 158, 170, 185, 196, 200, 198, 190, 177],
+					"all_points_y": [109, 107, 107, 108, 116, 126, 138, 144, 152, 158, 158, 155, 146, 138, 127, 117, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 158, 163, 167, 174, 177, 177, 176, 170, 158, 156, 155],
+					"all_points_y": [163, 168, 172, 172, 168, 163, 158, 157, 158, 158, 158, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 194, 189, 187, 188, 193, 197],
+					"all_points_y": [151, 156, 159, 157, 153, 151, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 138, 144, 146, 141, 139],
+					"all_points_y": [150, 154, 156, 155, 150, 148]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0409.PNG65950": {
+			"filename": "0409.PNG",
+			"size": 65950,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": 3,
+					"width": 309,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0410.PNG56229": {
+			"filename": "0410.PNG",
+			"size": 56229,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 5,
+					"width": 313,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00412.PNG57684": {
+			"filename": "00412.PNG",
+			"size": 57684,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 313,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00413.PNG54212": {
+			"filename": "00413.PNG",
+			"size": 54212,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 150, 139, 136, 134, 136, 146, 156, 167, 178, 188, 190, 190, 182, 171, 162],
+					"all_points_y": [111, 111, 117, 122, 127, 136, 148, 154, 153, 148, 142, 132, 123, 115, 110, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 155, 159, 163, 165, 168, 168, 167, 154, 154],
+					"all_points_y": [157, 163, 166, 166, 162, 158, 156, 153, 154, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 184, 180, 178, 180, 183, 186],
+					"all_points_y": [147, 147, 149, 152, 153, 152, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [176, 182, 187, 194, 194, 193, 192, 190, 188, 178, 167, 168],
+					"all_points_y": [154, 155, 155, 152, 146, 140, 136, 133, 142, 148, 153, 157]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00414.PNG68817": {
+			"filename": "00414.PNG",
+			"size": 68817,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [142, 142, 133, 127, 127, 134, 148, 166, 172, 178, 186, 192, 191, 183, 170, 162, 156],
+					"all_points_y": [118, 119, 126, 138, 149, 156, 163, 163, 162, 161, 155, 146, 134, 120, 114, 113, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 153, 158, 162, 165, 168, 168, 168, 167, 154],
+					"all_points_y": [170, 174, 176, 176, 175, 171, 168, 165, 164, 163]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [190, 185, 182, 182, 184, 188, 188],
+					"all_points_y": [157, 159, 161, 162, 163, 162, 161]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 134, 135, 138, 141, 140, 138, 137, 136],
+					"all_points_y": [161, 160, 162, 163, 163, 161, 159, 158, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 182, 185, 189, 192, 194, 194, 193, 192, 185, 178, 167, 169, 168, 171, 174],
+					"all_points_y": [165, 165, 168, 168, 163, 157, 152, 147, 147, 156, 161, 163, 166, 169, 166, 165]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00415.PNG61707": {
+			"filename": "00415.PNG",
+			"size": 61707,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 141, 137, 135, 136, 142, 149, 170, 177, 183, 188, 188, 183, 172, 164],
+					"all_points_y": [120, 126, 132, 140, 146, 152, 156, 156, 154, 151, 145, 138, 128, 124, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 184, 187, 186, 183, 180, 179],
+					"all_points_y": [158, 156, 154, 153, 153, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 136, 134, 137, 139, 143, 143],
+					"all_points_y": [153, 152, 153, 156, 157, 158, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 153, 155, 158, 161, 165, 169, 169, 168, 150, 149],
+					"all_points_y": [162, 166, 168, 169, 169, 166, 162, 158, 156, 156, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [176, 180, 183, 188, 191, 192, 192, 189, 188, 181, 176, 169, 168, 169, 169, 170],
+					"all_points_y": [160, 162, 165, 162, 156, 152, 148, 145, 145, 153, 154, 156, 156, 158, 162, 161]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 131, 132, 134, 140, 142, 146, 149, 149, 141, 136],
+					"all_points_y": [149, 157, 161, 163, 163, 160, 160, 159, 156, 152, 146]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0415.PNG61256": {
+			"filename": "0415.PNG",
+			"size": 61256,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 136, 131, 128, 128, 131, 140, 154, 162, 174, 184, 192, 195, 193, 185, 175, 165],
+					"all_points_y": [103, 110, 117, 126, 138, 145, 152, 154, 155, 153, 148, 144, 136, 122, 110, 104, 101]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 153, 155, 160, 168, 169, 168, 166, 164, 158],
+					"all_points_y": [158, 160, 166, 167, 165, 161, 158, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00417.PNG61550": {
+			"filename": "00417.PNG",
+			"size": 61550,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 144, 140, 140, 144, 154, 165, 180, 186, 190, 191, 186, 180, 168, 162],
+					"all_points_y": [118, 121, 128, 137, 150, 154, 156, 154, 149, 141, 131, 122, 116, 115, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 156, 158, 162, 164, 168, 173, 175, 174, 172, 167, 161, 159],
+					"all_points_y": [161, 164, 168, 169, 169, 168, 166, 162, 158, 156, 156, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [185, 178, 181, 184, 189, 189],
+					"all_points_y": [155, 160, 163, 161, 158, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 144, 142, 147, 149, 152, 152],
+					"all_points_y": [155, 154, 158, 162, 163, 162, 160]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0418.PNG60880": {
+			"filename": "0418.PNG",
+			"size": 60880,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 132, 129, 132, 139, 145, 152, 168, 175, 182, 189, 194, 194, 184, 166, 153, 148],
+					"all_points_y": [120, 127, 137, 146, 154, 158, 157, 158, 160, 160, 151, 143, 132, 118, 113, 112, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 154, 160, 166, 170, 170, 170, 169, 158, 152, 150, 150],
+					"all_points_y": [164, 170, 172, 170, 165, 162, 159, 158, 158, 157, 161, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 188, 186, 190, 194],
+					"all_points_y": [152, 155, 160, 159, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 135, 139, 139, 133],
+					"all_points_y": [152, 157, 158, 156, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [182, 190, 197, 199, 197, 194, 193, 189, 182, 175, 170, 170, 174, 177],
+					"all_points_y": [164, 166, 162, 154, 149, 146, 146, 152, 160, 160, 159, 165, 163, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [127, 124, 128, 131, 134, 138, 144, 150, 152, 145, 138, 132, 131],
+					"all_points_y": [149, 156, 160, 162, 162, 161, 161, 161, 158, 158, 153, 147, 144]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00419.PNG64231": {
+			"filename": "00419.PNG",
+			"size": 64231,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 1,
+					"y": 5,
+					"width": 310,
+					"height": 298
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00420.PNG63559": {
+			"filename": "00420.PNG",
+			"size": 63559,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 5,
+					"width": 308,
+					"height": 299
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00421.PNG73030": {
+			"filename": "00421.PNG",
+			"size": 73030,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 5,
+					"width": 310,
+					"height": 296
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00422.PNG65297": {
+			"filename": "00422.PNG",
+			"size": 65297,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 137, 129, 126, 131, 142, 156, 174, 181, 190, 196, 196, 190, 181, 163],
+					"all_points_y": [112, 116, 128, 141, 150, 156, 161, 160, 159, 154, 146, 135, 122, 115, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 156, 162, 168, 168, 167, 166, 157, 155],
+					"all_points_y": [166, 170, 173, 170, 165, 162, 161, 162, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [198, 190, 189, 192, 196, 197],
+					"all_points_y": [150, 158, 158, 154, 149, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0423.PNG59225": {
+			"filename": "0423.PNG",
+			"size": 59225,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 134, 130, 129, 130, 134, 141, 151, 159, 167, 182, 191, 194, 188, 172, 166, 157],
+					"all_points_y": [103, 112, 119, 129, 134, 141, 148, 151, 152, 152, 145, 136, 126, 109, 101, 99, 99]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [195, 189, 187, 190, 196],
+					"all_points_y": [138, 141, 145, 145, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 136, 138, 131, 127, 126],
+					"all_points_y": [145, 149, 147, 142, 140, 143]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00424.PNG56197": {
+			"filename": "00424.PNG",
+			"size": 56197,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 138, 136, 137, 140, 145, 151, 162, 174, 181, 191, 196, 193, 186, 171, 159],
+					"all_points_y": [121, 130, 138, 143, 149, 154, 158, 159, 159, 157, 151, 142, 131, 122, 116, 116]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 156, 159, 162, 166, 170, 173, 173, 173, 163, 157],
+					"all_points_y": [163, 167, 171, 172, 171, 168, 166, 162, 160, 159, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [184, 186, 190, 194, 196, 194, 191, 189, 186],
+					"all_points_y": [159, 162, 161, 159, 156, 155, 154, 154, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 143, 147, 140, 136],
+					"all_points_y": [153, 159, 157, 153, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [190, 196, 201, 200, 199, 197, 194, 191, 182, 173, 173, 178, 182],
+					"all_points_y": [164, 164, 159, 152, 147, 146, 146, 152, 157, 159, 166, 162, 162]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 132, 135, 141, 148, 152, 156, 159, 151, 143, 139, 137],
+					"all_points_y": [146, 155, 161, 162, 161, 161, 163, 159, 159, 153, 147, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00425.PNG59847": {
+			"filename": "00425.PNG",
+			"size": 59847,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 146, 139, 139, 144, 153, 168, 181, 190, 194, 194, 187, 176],
+					"all_points_y": [108, 115, 126, 139, 146, 153, 154, 152, 146, 138, 128, 116, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 160, 165, 171, 175, 175, 173, 157, 155],
+					"all_points_y": [162, 170, 171, 168, 160, 155, 154, 154, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00428.PNG53315": {
+			"filename": "00428.PNG",
+			"size": 53315,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 136, 132, 132, 132, 138, 151, 166, 173, 183, 191, 188, 183, 174, 160],
+					"all_points_y": [146, 156, 164, 171, 178, 186, 190, 191, 192, 188, 175, 163, 156, 149, 143]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 153, 156, 162, 168, 169, 168, 166, 153, 149],
+					"all_points_y": [198, 203, 205, 205, 201, 195, 193, 192, 190, 194]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0428.PNG64758": {
+			"filename": "0428.PNG",
+			"size": 64758,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [140, 144, 148, 154, 158, 161, 158, 156, 143, 142],
+					"all_points_y": [161, 167, 168, 168, 162, 158, 155, 155, 154, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 121, 128, 131, 132, 128],
+					"all_points_y": [152, 156, 158, 157, 153, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 175, 170, 170, 174, 178, 181],
+					"all_points_y": [155, 156, 157, 157, 159, 160, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0938.PNG62895": {
+			"filename": "0938.PNG",
+			"size": 62895,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 132, 129, 129, 129, 135, 142, 156, 174, 187, 193, 193, 186, 168, 156],
+					"all_points_y": [113, 125, 131, 138, 146, 153, 154, 157, 159, 157, 146, 130, 118, 111, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 153, 158, 164, 168, 169, 166, 152, 149],
+					"all_points_y": [164, 172, 174, 173, 168, 162, 159, 157, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00941.PNG64633": {
+			"filename": "00941.PNG",
+			"size": 64633,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 142, 131, 128, 131, 137, 145, 158, 173, 177, 188, 195, 196, 189, 172, 158],
+					"all_points_y": [111, 111, 122, 130, 140, 148, 155, 159, 156, 156, 153, 145, 134, 120, 110, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 148, 150, 152, 157, 163, 163, 162, 151],
+					"all_points_y": [161, 165, 170, 172, 171, 168, 163, 159, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [129, 134, 138, 136, 127, 126],
+					"all_points_y": [153, 155, 153, 150, 146, 148]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [182, 190, 190, 183, 181],
+					"all_points_y": [161, 160, 156, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0943.PNG54728": {
+			"filename": "0943.PNG",
+			"size": 54728,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 148, 136, 130, 130, 134, 140, 149, 162, 178, 188, 195, 196, 191, 174, 165],
+					"all_points_y": [109, 109, 116, 128, 138, 146, 152, 155, 158, 156, 153, 144, 132, 120, 110, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 164, 168, 168, 166, 160, 151, 150],
+					"all_points_y": [164, 171, 171, 163, 160, 158, 158, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00944.PNG63117": {
+			"filename": "00944.PNG",
+			"size": 63117,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 140, 135, 133, 134, 137, 144, 157, 175, 183, 191, 195, 194, 190, 178, 169],
+					"all_points_y": [108, 115, 124, 136, 143, 147, 153, 156, 156, 154, 146, 133, 122, 116, 111, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 154, 156, 161, 166, 168, 169, 169, 156, 155],
+					"all_points_y": [159, 163, 166, 168, 168, 162, 158, 156, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0946.PNG49508": {
+			"filename": "0946.PNG",
+			"size": 49508,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [161, 148, 139, 136, 137, 141, 146, 155, 178, 187, 191, 190, 183, 175],
+					"all_points_y": [117, 119, 125, 133, 142, 153, 156, 156, 157, 150, 142, 132, 124, 119]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 159, 165, 171, 174, 172, 154, 153, 153],
+					"all_points_y": [167, 170, 171, 165, 160, 157, 157, 161, 163]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 135, 133, 136, 140, 140],
+					"all_points_y": [158, 159, 161, 162, 161, 160]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00947.PNG54358": {
+			"filename": "00947.PNG",
+			"size": 54358,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 5,
+					"width": 314,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00952.PNG62759": {
+			"filename": "00952.PNG",
+			"size": 62759,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [173, 172, 165, 152, 140, 134, 134, 137, 142, 152, 160, 175, 188, 195, 197, 194, 188],
+					"all_points_y": [102, 102, 100, 103, 110, 119, 131, 139, 145, 152, 155, 152, 144, 136, 124, 116, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 195, 192, 189, 186, 184],
+					"all_points_y": [150, 147, 145, 146, 148, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 137, 143, 144, 143],
+					"all_points_y": [147, 152, 156, 154, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 157, 160, 165, 169, 172, 171, 160, 156],
+					"all_points_y": [160, 164, 166, 166, 162, 157, 153, 155, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0953.PNG57438": {
+			"filename": "0953.PNG",
+			"size": 57438,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 137, 133, 132, 136, 147, 159, 170, 183, 194, 197, 191, 183, 167],
+					"all_points_y": [106, 117, 124, 134, 146, 153, 155, 155, 150, 139, 128, 113, 107, 102]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 159, 165, 170, 176, 176, 175, 173, 169, 158, 157],
+					"all_points_y": [163, 166, 170, 168, 162, 159, 155, 155, 156, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 185, 183, 184, 188, 195],
+					"all_points_y": [148, 152, 154, 157, 158, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 142, 144, 147, 150, 151, 151],
+					"all_points_y": [156, 162, 164, 164, 164, 161, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00957.PNG54695": {
+			"filename": "00957.PNG",
+			"size": 54695,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 0,
+					"width": 312,
+					"height": 306
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0957.PNG63247": {
+			"filename": "0957.PNG",
+			"size": 63247,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": 4,
+					"width": 311,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0960.PNG65740": {
+			"filename": "0960.PNG",
+			"size": 65740,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 1,
+					"width": 313,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00962.PNG63618": {
+			"filename": "00962.PNG",
+			"size": 63618,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [166, 154, 140, 133, 130, 130, 134, 149, 159, 175, 185, 191, 193, 191, 182],
+					"all_points_y": [115, 115, 121, 129, 139, 147, 154, 160, 163, 161, 157, 150, 140, 131, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 151, 154, 159, 162, 165, 166, 166, 160, 154, 152],
+					"all_points_y": [168, 172, 175, 176, 175, 172, 168, 162, 164, 162, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 183, 184, 187, 189],
+					"all_points_y": [158, 160, 162, 163, 161]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 129, 131, 135, 137, 134],
+					"all_points_y": [156, 158, 159, 159, 159, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0965.PNG53099": {
+			"filename": "0965.PNG",
+			"size": 53099,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 152, 143, 135, 131, 133, 137, 142, 161, 175, 181, 187, 190, 189, 184, 172],
+					"all_points_y": [116, 116, 116, 125, 137, 142, 147, 152, 155, 156, 155, 148, 140, 130, 123, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [145, 152, 160, 165, 170, 170, 169, 144, 143],
+					"all_points_y": [164, 170, 171, 168, 160, 157, 156, 153, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0968.PNG63556": {
+			"filename": "0968.PNG",
+			"size": 63556,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [173, 160, 151, 141, 135, 131, 130, 130, 134, 139, 149, 170, 181, 192, 198, 198, 197, 188],
+					"all_points_y": [117, 115, 116, 118, 125, 132, 138, 144, 151, 156, 161, 163, 163, 157, 148, 138, 132, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 159, 166, 172, 174, 175, 173, 158, 153, 152],
+					"all_points_y": [173, 181, 181, 177, 173, 168, 164, 162, 164, 168]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 195, 191, 194, 197, 201],
+					"all_points_y": [155, 156, 160, 160, 160, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0971.PNG62258": {
+			"filename": "0971.PNG",
+			"size": 62258,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 120, 117, 119, 127, 141, 165, 177, 188, 191, 185, 170, 155, 145],
+					"all_points_y": [115, 128, 139, 148, 152, 156, 157, 155, 148, 131, 118, 108, 105, 107]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 149, 155, 162, 163, 163, 162, 146, 143],
+					"all_points_y": [164, 171, 173, 166, 163, 161, 157, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [118, 121, 126, 128, 126, 119],
+					"all_points_y": [154, 158, 159, 157, 155, 152]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 190, 194, 190, 186, 181],
+					"all_points_y": [160, 158, 154, 151, 152, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0976.PNG57534": {
+			"filename": "0976.PNG",
+			"size": 57534,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 3,
+					"width": 313,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0979.PNG59979": {
+			"filename": "0979.PNG",
+			"size": 59979,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [163, 150, 142, 138, 137, 138, 144, 153, 172, 185, 195, 195, 188, 179],
+					"all_points_y": [117, 121, 128, 134, 141, 146, 156, 159, 158, 155, 145, 134, 124, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 163, 168, 173, 176, 174, 173, 160, 157],
+					"all_points_y": [166, 170, 171, 167, 163, 159, 158, 159, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 145, 147, 144, 139],
+					"all_points_y": [159, 162, 160, 158, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 194, 194, 191, 188],
+					"all_points_y": [158, 154, 152, 153, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 193, 197, 196, 194, 193, 185, 174, 177],
+					"all_points_y": [160, 162, 157, 151, 148, 147, 155, 158, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00982.PNG65054": {
+			"filename": "00982.PNG",
+			"size": 65054,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 3,
+					"width": 312,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0982.PNG57075": {
+			"filename": "0982.PNG",
+			"size": 57075,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 1,
+					"width": 313,
+					"height": 304
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00987.PNG54958": {
+			"filename": "00987.PNG",
+			"size": 54958,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 136, 136, 141, 152, 166, 184, 188, 185, 175, 167, 160],
+					"all_points_y": [117, 126, 139, 149, 155, 155, 148, 138, 126, 118, 114, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 155, 160, 166, 169, 169, 166, 153, 151],
+					"all_points_y": [162, 167, 170, 165, 161, 158, 155, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 186, 187, 180],
+					"all_points_y": [158, 156, 152, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [174, 180, 186, 192, 191, 189, 188, 184, 166, 169, 170],
+					"all_points_y": [159, 160, 161, 157, 147, 140, 138, 148, 155, 158, 161]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [140, 134, 134, 137, 140, 142],
+					"all_points_y": [153, 153, 155, 157, 158, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 132, 131, 131, 134, 142, 146, 150, 152, 151, 153, 143, 141, 136],
+					"all_points_y": [137, 144, 152, 156, 159, 158, 158, 163, 162, 157, 156, 151, 148, 139]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0987.PNG59203": {
+			"filename": "0987.PNG",
+			"size": 59203,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 144, 137, 134, 134, 138, 148, 164, 172, 180, 187, 190, 187, 177],
+					"all_points_y": [113, 119, 126, 133, 143, 149, 154, 156, 156, 154, 148, 139, 128, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 152, 158, 165, 168, 166, 164, 155, 153],
+					"all_points_y": [162, 167, 169, 168, 163, 158, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 189, 188, 187, 181, 179],
+					"all_points_y": [160, 158, 156, 156, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 136, 139, 141, 139],
+					"all_points_y": [151, 156, 156, 154, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [172, 181, 185, 193, 195, 191, 188, 180, 172, 165, 168, 169],
+					"all_points_y": [160, 162, 164, 161, 154, 146, 148, 154, 156, 157, 161, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 132, 132, 136, 143, 145, 151, 154, 148, 139, 134],
+					"all_points_y": [147, 154, 157, 159, 156, 156, 161, 156, 154, 150, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00992.PNG69790": {
+			"filename": "00992.PNG",
+			"size": 69790,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 128, 128, 132, 144, 158, 171, 184, 189, 191, 184, 172, 164, 154, 142],
+					"all_points_y": [112, 119, 131, 142, 150, 153, 152, 145, 138, 127, 115, 109, 107, 107, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 152, 161, 168, 166, 163, 155, 150, 146],
+					"all_points_y": [160, 165, 166, 161, 154, 153, 152, 151, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [185, 179, 177, 181, 187],
+					"all_points_y": [149, 153, 156, 159, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 133, 138, 139, 134],
+					"all_points_y": [146, 152, 154, 151, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0992.PNG63165": {
+			"filename": "0992.PNG",
+			"size": 63165,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 140, 133, 131, 132, 136, 144, 157, 173, 182, 188, 190, 179, 168],
+					"all_points_y": [110, 113, 120, 128, 136, 142, 149, 154, 152, 146, 142, 126, 115, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 151, 153, 159, 166, 169, 168, 156, 151, 149, 148],
+					"all_points_y": [159, 165, 167, 168, 164, 158, 153, 154, 152, 152, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 186, 189, 187, 182, 179],
+					"all_points_y": [153, 151, 149, 147, 149, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 141, 139, 135, 132],
+					"all_points_y": [149, 153, 147, 146, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 183, 189, 191, 189, 174, 168, 170],
+					"all_points_y": [155, 155, 155, 148, 142, 152, 153, 159]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 128, 130, 138, 146, 148, 150, 144, 135, 133],
+					"all_points_y": [142, 149, 152, 153, 156, 155, 151, 149, 141, 137]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00995.PNG59397": {
+			"filename": "00995.PNG",
+			"size": 59397,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 7,
+					"y": 2,
+					"width": 309,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0995.PNG56319": {
+			"filename": "0995.PNG",
+			"size": 56319,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 1,
+					"width": 316,
+					"height": 305
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01000.PNG62898": {
+			"filename": "01000.PNG",
+			"size": 62898,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": 6,
+					"width": 311,
+					"height": 293
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1000.PNG65990": {
+			"filename": "1000.PNG",
+			"size": 65990,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 312,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1003.PNG63384": {
+			"filename": "1003.PNG",
+			"size": 63384,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 129, 127, 128, 137, 148, 170, 178, 188, 193, 192, 188, 180, 167, 156, 149, 140],
+					"all_points_y": [122, 126, 135, 141, 150, 153, 153, 154, 149, 141, 130, 119, 114, 112, 110, 110, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 159, 162, 167, 169, 169, 166, 156, 152],
+					"all_points_y": [162, 167, 166, 164, 161, 157, 153, 153, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 137, 137, 133, 129],
+					"all_points_y": [155, 156, 154, 152, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 188, 194, 196, 195, 192, 188, 178, 167, 169, 170, 174, 176],
+					"all_points_y": [158, 158, 154, 146, 143, 145, 150, 154, 153, 157, 160, 158, 158]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [126, 130, 133, 139, 143, 147, 151, 153, 157, 148, 136, 133, 129, 127],
+					"all_points_y": [157, 160, 162, 161, 159, 158, 159, 159, 153, 153, 150, 147, 149, 151]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01005.PNG72793": {
+			"filename": "01005.PNG",
+			"size": 72793,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 142, 135, 130, 134, 144, 158, 171, 182, 191, 193, 193, 184, 171],
+					"all_points_y": [111, 116, 121, 130, 141, 151, 155, 154, 151, 144, 138, 129, 117, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 155, 160, 166, 170, 170, 167, 157, 154, 152],
+					"all_points_y": [163, 170, 170, 168, 162, 159, 155, 155, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [182, 188, 190, 187, 184, 180, 180],
+					"all_points_y": [159, 158, 154, 152, 152, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [129, 138, 145, 141, 138, 133],
+					"all_points_y": [154, 158, 156, 153, 152, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1006.PNG64338": {
+			"filename": "1006.PNG",
+			"size": 64338,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 146, 136, 133, 133, 139, 146, 158, 173, 186, 191, 192, 190, 184, 173, 164],
+					"all_points_y": [127, 131, 137, 145, 154, 164, 168, 171, 170, 168, 160, 153, 143, 135, 129, 127]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 161, 168, 174, 174, 159, 152, 153],
+					"all_points_y": [182, 185, 182, 175, 171, 171, 170, 175]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 131, 137, 136, 134],
+					"all_points_y": [163, 167, 165, 163, 162]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [124, 125, 127, 133, 142, 145, 152, 152, 145, 140, 133, 129],
+					"all_points_y": [165, 171, 174, 174, 171, 170, 173, 170, 168, 165, 154, 156]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 194, 196, 193, 191, 189],
+					"all_points_y": [170, 167, 164, 163, 163, 165]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 188, 193, 198, 198, 194, 191, 188, 187, 174, 175, 179],
+					"all_points_y": [173, 174, 174, 170, 162, 158, 159, 165, 167, 171, 174, 172]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1009.PNG64655": {
+			"filename": "1009.PNG",
+			"size": 64655,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 133, 130, 128, 131, 142, 156, 178, 185, 194, 196, 195, 192, 181, 165],
+					"all_points_y": [105, 115, 122, 131, 139, 149, 148, 149, 150, 141, 135, 122, 115, 106, 103]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 158, 163, 168, 173, 174, 156, 147],
+					"all_points_y": [159, 163, 164, 160, 155, 149, 148, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [201, 193, 194, 204],
+					"all_points_y": [143, 145, 148, 145]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [125, 130, 134, 134, 127],
+					"all_points_y": [143, 147, 149, 146, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01010.PNG58766": {
+			"filename": "01010.PNG",
+			"size": 58766,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 153, 156, 162, 168, 170, 170, 165, 160, 155, 152],
+					"all_points_y": [163, 171, 174, 174, 170, 164, 157, 156, 157, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 182, 186, 191, 188, 184, 180],
+					"all_points_y": [157, 159, 159, 157, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 137, 143, 146, 147, 143, 139, 135],
+					"all_points_y": [157, 159, 158, 157, 155, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01015.PNG62340": {
+			"filename": "01015.PNG",
+			"size": 62340,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 2,
+					"width": 312,
+					"height": 298
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1017.PNG68932": {
+			"filename": "1017.PNG",
+			"size": 68932,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 125, 121, 121, 127, 134, 151, 167, 175, 182, 188, 186, 178, 175, 165, 150],
+					"all_points_y": [98, 105, 120, 133, 143, 145, 141, 141, 142, 137, 127, 113, 103, 99, 93, 92]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 149, 153, 158, 163, 164, 152, 145],
+					"all_points_y": [147, 150, 152, 150, 146, 142, 141, 143]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01018.PNG52266": {
+			"filename": "01018.PNG",
+			"size": 52266,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 5,
+					"width": 312,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1020.PNG59728": {
+			"filename": "1020.PNG",
+			"size": 59728,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 134, 133, 138, 144, 157, 171, 179, 184, 191, 191, 187, 171, 160],
+					"all_points_y": [115, 127, 139, 143, 153, 153, 154, 154, 153, 142, 133, 125, 115, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 156, 161, 165, 171, 171, 158, 152, 149],
+					"all_points_y": [161, 166, 166, 164, 158, 155, 153, 153, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 188, 185, 187, 191],
+					"all_points_y": [150, 155, 157, 152, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 131, 135, 138, 137],
+					"all_points_y": [146, 148, 152, 153, 150]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 128, 131, 139, 145, 149, 152, 144, 133],
+					"all_points_y": [142, 151, 157, 158, 156, 156, 153, 153, 137]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [178, 187, 192, 195, 195, 192, 184, 171, 171],
+					"all_points_y": [158, 160, 156, 151, 146, 143, 153, 155, 158]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1023.PNG56685": {
+			"filename": "1023.PNG",
+			"size": 56685,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 2,
+					"width": 313,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01025.PNG61378": {
+			"filename": "01025.PNG",
+			"size": 61378,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [162, 162, 147, 138, 134, 137, 142, 158, 174, 187, 191, 191, 180],
+					"all_points_y": [111, 112, 116, 126, 135, 144, 151, 156, 154, 148, 143, 131, 116]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 154, 153, 160, 166, 172, 172, 167, 167],
+					"all_points_y": [159, 163, 170, 176, 175, 165, 161, 159, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 185, 180, 179, 183, 187, 190, 191],
+					"all_points_y": [152, 153, 155, 160, 161, 157, 156, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 138, 141, 146, 147, 145, 142],
+					"all_points_y": [155, 158, 160, 161, 159, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1028.PNG61822": {
+			"filename": "1028.PNG",
+			"size": 61822,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 149, 148, 151, 160, 167, 168, 163, 159],
+					"all_points_y": [154, 156, 163, 170, 170, 165, 159, 153, 152]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01029.PNG56408": {
+			"filename": "01029.PNG",
+			"size": 56408,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 130, 133, 143, 162, 182, 191, 193, 188, 176, 163, 154, 144, 140],
+					"all_points_y": [129, 140, 152, 158, 156, 156, 148, 138, 126, 114, 110, 112, 116, 119]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 156, 163, 171, 172, 171, 171, 160, 151, 149, 149],
+					"all_points_y": [164, 168, 168, 162, 160, 157, 156, 157, 158, 160, 162]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 128, 132, 135, 135, 132],
+					"all_points_y": [154, 156, 160, 160, 156, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [200, 196, 191, 191, 193, 195, 200],
+					"all_points_y": [147, 147, 152, 154, 155, 155, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01032.PNG56995": {
+			"filename": "01032.PNG",
+			"size": 56995,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 154, 142, 138, 138, 149, 159, 174, 186, 198, 200, 195, 190, 170, 165],
+					"all_points_y": [113, 113, 123, 133, 141, 150, 153, 155, 152, 146, 139, 126, 118, 112, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 158, 162, 169, 175, 180, 178, 177, 163, 160, 157],
+					"all_points_y": [160, 164, 171, 171, 166, 160, 156, 155, 154, 154, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [205, 202, 195, 190, 191, 196, 198],
+					"all_points_y": [149, 153, 157, 155, 152, 150, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 139, 147, 146, 137],
+					"all_points_y": [148, 153, 153, 150, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1033.PNG64548": {
+			"filename": "1033.PNG",
+			"size": 64548,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [137, 130, 134, 140, 156, 168, 179, 190, 195, 191, 184, 162, 152],
+					"all_points_y": [100, 113, 125, 136, 141, 141, 138, 130, 120, 108, 99, 95, 95]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 157, 163, 168, 168, 167, 166, 155, 154],
+					"all_points_y": [149, 157, 155, 150, 145, 142, 141, 141, 141]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 190, 188, 184],
+					"all_points_y": [142, 139, 136, 139]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 136, 142, 141, 137, 133],
+					"all_points_y": [138, 142, 142, 140, 137, 137]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 184, 193, 196, 190, 188, 187, 179, 167, 168, 169],
+					"all_points_y": [142, 146, 146, 141, 134, 134, 133, 138, 142, 144, 148]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 128, 133, 138, 143, 146, 150, 152, 154, 140, 136],
+					"all_points_y": [129, 143, 145, 144, 143, 143, 145, 145, 141, 136, 128]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01036.PNG56426": {
+			"filename": "01036.PNG",
+			"size": 56426,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 7,
+					"width": 309,
+					"height": 295
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1036.PNG61212": {
+			"filename": "1036.PNG",
+			"size": 61212,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 132, 129, 126, 131, 141, 168, 177, 183, 190, 191, 188, 181, 173, 158],
+					"all_points_y": [111, 119, 127, 135, 147, 151, 154, 154, 151, 147, 134, 120, 109, 106, 107]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 151, 155, 159, 162, 161, 158, 153, 151],
+					"all_points_y": [160, 164, 165, 164, 160, 155, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 125, 130, 129, 126],
+					"all_points_y": [145, 148, 149, 146, 143]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1039.PNG61334": {
+			"filename": "1039.PNG",
+			"size": 61334,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [127, 127, 123, 123, 129, 135, 161, 169, 178, 182, 181, 169, 157, 149, 140],
+					"all_points_y": [125, 126, 140, 147, 154, 159, 162, 160, 154, 145, 136, 122, 118, 116, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [137, 143, 148, 153, 158, 161, 161, 140, 139],
+					"all_points_y": [169, 175, 178, 177, 170, 165, 162, 160, 161]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [174, 186, 185, 181, 174],
+					"all_points_y": [162, 158, 156, 157, 160]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01041.PNG58640": {
+			"filename": "01041.PNG",
+			"size": 58640,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 155, 161, 166, 171, 175, 172, 168, 154, 151],
+					"all_points_y": [161, 171, 175, 175, 169, 163, 157, 155, 154, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1042.PNG55939": {
+			"filename": "1042.PNG",
+			"size": 55939,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [137, 128, 127, 138, 148, 166, 180, 195, 198, 195, 182, 164, 154],
+					"all_points_y": [115, 129, 141, 154, 159, 159, 157, 149, 137, 122, 111, 107, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 157, 164, 171, 173, 171, 170, 153, 152, 150],
+					"all_points_y": [171, 176, 177, 171, 167, 160, 159, 160, 162, 169]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [193, 198, 196, 187, 188],
+					"all_points_y": [159, 151, 150, 158, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 134, 141],
+					"all_points_y": [151, 158, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 194, 197, 203, 202, 199, 197, 195, 181, 171, 172, 174],
+					"all_points_y": [160, 162, 161, 155, 149, 141, 142, 149, 158, 159, 163, 167]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [123, 123, 129, 136, 144, 150, 151, 153, 148, 138, 126],
+					"all_points_y": [144, 153, 159, 160, 161, 165, 164, 159, 159, 155, 141]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1045.PNG59794": {
+			"filename": "1045.PNG",
+			"size": 59794,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 4,
+					"width": 312,
+					"height": 300
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01046.PNG67789": {
+			"filename": "01046.PNG",
+			"size": 67789,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 135, 131, 130, 138, 147, 160, 176, 185, 190, 190, 181, 174, 162, 156],
+					"all_points_y": [112, 117, 123, 134, 143, 148, 151, 147, 142, 133, 124, 113, 109, 107, 107]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 163, 168, 170, 169, 167, 160, 154, 150, 150, 151],
+					"all_points_y": [166, 165, 158, 152, 150, 150, 151, 150, 153, 157, 161]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [190, 186, 183, 189, 193, 190],
+					"all_points_y": [143, 144, 149, 148, 145, 143]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 138, 142, 142, 139],
+					"all_points_y": [146, 152, 151, 148, 145]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01050.PNG51471": {
+			"filename": "01050.PNG",
+			"size": 51471,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 139, 132, 130, 135, 143, 154, 167, 179, 190, 197, 194, 189, 176, 159, 151],
+					"all_points_y": [103, 103, 114, 127, 139, 145, 149, 150, 149, 143, 133, 116, 107, 100, 98, 99]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 157, 162, 167, 170, 172, 165, 155],
+					"all_points_y": [153, 158, 161, 159, 155, 151, 150, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1050.PNG58886": {
+			"filename": "1050.PNG",
+			"size": 58886,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 132, 130, 131, 136, 143, 163, 162, 174, 183, 189, 192, 188, 179, 172, 161],
+					"all_points_y": [120, 130, 138, 146, 156, 162, 163, 163, 164, 160, 154, 144, 130, 123, 120, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 152, 157, 162, 168, 169, 167, 159, 153, 149, 149],
+					"all_points_y": [168, 172, 174, 174, 172, 168, 164, 163, 163, 163, 166]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [182, 185, 190, 189, 185, 183, 180, 180],
+					"all_points_y": [168, 168, 165, 162, 161, 161, 165, 167]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 135, 140, 141, 138, 136],
+					"all_points_y": [160, 164, 165, 162, 160, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 186, 191, 195, 196, 193, 190, 183, 174, 167, 168, 170],
+					"all_points_y": [169, 171, 171, 168, 162, 156, 154, 161, 165, 164, 166, 170]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [127, 127, 128, 131, 137, 142, 147, 149, 149, 142, 136, 132],
+					"all_points_y": [150, 160, 166, 169, 167, 167, 168, 166, 163, 162, 156, 148]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01055.PNG72965": {
+			"filename": "01055.PNG",
+			"size": 72965,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 4,
+					"width": 308,
+					"height": 296
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1055.PNG57368": {
+			"filename": "1055.PNG",
+			"size": 57368,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 132, 130, 134, 148, 163, 175, 186, 193, 196, 191, 180, 169, 159],
+					"all_points_y": [116, 126, 140, 149, 160, 162, 161, 155, 148, 135, 124, 117, 114, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 159, 165, 169, 171, 170, 161, 157, 156],
+					"all_points_y": [168, 172, 174, 171, 166, 162, 162, 163, 165]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 181, 180, 184, 187, 189],
+					"all_points_y": [157, 160, 162, 161, 161, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 194, 193, 192, 185, 176, 170, 172, 175, 178, 184],
+					"all_points_y": [166, 161, 153, 150, 155, 161, 162, 167, 164, 164, 164]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 140, 144, 136],
+					"all_points_y": [159, 162, 162, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 129, 136, 142, 148, 151, 156, 159, 148, 134, 133],
+					"all_points_y": [151, 157, 165, 163, 163, 165, 165, 162, 160, 150, 147]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01058.PNG73248": {
+			"filename": "01058.PNG",
+			"size": 73248,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 138, 133, 132, 135, 143, 150, 160, 172, 181, 188, 192, 193, 188, 179, 165, 159],
+					"all_points_y": [119, 124, 133, 143, 152, 158, 156, 158, 158, 159, 155, 150, 135, 127, 119, 116, 116]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1058.PNG57136": {
+			"filename": "1058.PNG",
+			"size": 57136,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 1,
+					"y": 0,
+					"width": 315,
+					"height": 306
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1061.PNG60267": {
+			"filename": "1061.PNG",
+			"size": 60267,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 146, 141, 135, 134, 136, 149, 162, 170, 176, 186, 190, 190, 181, 170],
+					"all_points_y": [118, 120, 124, 131, 140, 148, 156, 156, 156, 154, 148, 140, 133, 123, 120]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 156, 159, 164, 170, 171, 171, 154, 152],
+					"all_points_y": [162, 166, 168, 168, 163, 159, 157, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 184, 188, 190, 185, 183],
+					"all_points_y": [157, 156, 153, 149, 150, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [137, 139, 140, 142, 142, 141, 139],
+					"all_points_y": [153, 157, 158, 158, 155, 152, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01063.PNG55971": {
+			"filename": "01063.PNG",
+			"size": 55971,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 135, 132, 136, 136, 145, 154, 170, 180, 195, 194, 191, 184, 169],
+					"all_points_y": [110, 122, 130, 139, 142, 150, 154, 155, 152, 142, 138, 125, 114, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 155, 159, 165, 169, 170, 154],
+					"all_points_y": [159, 163, 165, 163, 156, 155, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 195, 193, 197, 194, 190, 180, 171, 170, 174, 180, 183],
+					"all_points_y": [157, 154, 147, 141, 142, 146, 152, 155, 156, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 130, 130, 131, 134, 140, 146, 147, 153, 153, 153, 154, 155, 145, 136],
+					"all_points_y": [142, 148, 149, 152, 155, 155, 155, 155, 158, 159, 158, 157, 154, 150, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1066.PNG61651": {
+			"filename": "1066.PNG",
+			"size": 61651,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 4,
+					"width": 311,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01068.PNG67133": {
+			"filename": "01068.PNG",
+			"size": 67133,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 127, 125, 129, 138, 154, 166, 180, 190, 193, 193, 183, 175, 165, 156, 146],
+					"all_points_y": [107, 116, 129, 142, 150, 157, 156, 154, 148, 136, 123, 109, 102, 99, 99, 101]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 153, 158, 163, 166, 166, 166, 155, 150, 147, 147],
+					"all_points_y": [162, 166, 167, 163, 159, 157, 156, 157, 156, 156, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1071.PNG59922": {
+			"filename": "1071.PNG",
+			"size": 59922,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 137, 134, 134, 147, 162, 176, 185, 190, 191, 186, 174, 163, 156],
+					"all_points_y": [121, 126, 136, 147, 156, 159, 156, 153, 148, 138, 125, 119, 117, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 153, 159, 164, 168, 170, 169, 164, 156],
+					"all_points_y": [161, 167, 171, 170, 167, 163, 159, 159, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 187, 191, 191, 189, 186, 183, 182],
+					"all_points_y": [159, 160, 158, 156, 155, 155, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 143, 145, 144, 141, 140, 137],
+					"all_points_y": [158, 160, 159, 156, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01075.PNG59971": {
+			"filename": "01075.PNG",
+			"size": 59971,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 311,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1078.PNG65256": {
+			"filename": "1078.PNG",
+			"size": 65256,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 10,
+					"width": 313,
+					"height": 289
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01082.PNG68429": {
+			"filename": "01082.PNG",
+			"size": 68429,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 3,
+					"width": 311,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1083.PNG63083": {
+			"filename": "1083.PNG",
+			"size": 63083,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 143, 139, 138, 139, 146, 154, 162, 178, 187, 194, 196, 191, 177, 170],
+					"all_points_y": [123, 130, 136, 144, 150, 156, 160, 162, 161, 158, 150, 142, 131, 124, 122]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 158, 163, 169, 174, 177, 176, 169, 161, 159, 156],
+					"all_points_y": [168, 173, 177, 177, 172, 166, 162, 162, 162, 162, 163]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [199, 192, 191, 187, 190, 196, 198],
+					"all_points_y": [154, 156, 156, 160, 161, 158, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 144, 148, 148, 146, 140, 137],
+					"all_points_y": [158, 162, 162, 160, 157, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1086.PNG65639": {
+			"filename": "1086.PNG",
+			"size": 65639,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 137, 131, 129, 128, 132, 139, 149, 164, 174, 184, 192, 196, 198, 194, 183, 168],
+					"all_points_y": [112, 118, 124, 132, 141, 147, 155, 158, 158, 156, 154, 149, 144, 133, 123, 116, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 160, 164, 169, 171, 170, 169, 165, 157],
+					"all_points_y": [164, 169, 170, 167, 162, 159, 157, 158, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01087.PNG58739": {
+			"filename": "01087.PNG",
+			"size": 58739,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 152, 156, 162, 166, 167, 168, 168, 155, 151],
+					"all_points_y": [159, 163, 168, 168, 165, 161, 157, 154, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1091.PNG61610": {
+			"filename": "1091.PNG",
+			"size": 61610,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 153, 140, 134, 131, 132, 136, 142, 152, 175, 185, 194, 198, 197, 189, 182, 168],
+					"all_points_y": [112, 112, 119, 128, 139, 146, 152, 156, 161, 161, 160, 153, 144, 132, 119, 115, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 156, 166, 171, 175, 175, 174, 156, 153],
+					"all_points_y": [170, 175, 178, 176, 170, 165, 161, 162, 166]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 138, 140, 141, 135],
+					"all_points_y": [158, 162, 162, 159, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01092.PNG55950": {
+			"filename": "01092.PNG",
+			"size": 55950,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 153, 160, 165, 169, 173, 174, 169, 166, 153, 153],
+					"all_points_y": [167, 176, 180, 181, 176, 171, 164, 159, 158, 160, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01095.PNG57817": {
+			"filename": "01095.PNG",
+			"size": 57817,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 142, 135, 135, 140, 147, 158, 174, 188, 196, 201, 202, 200, 193, 183, 173],
+					"all_points_y": [120, 129, 140, 149, 162, 167, 171, 173, 174, 168, 160, 149, 139, 129, 124, 121]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 155, 157, 163, 169, 176, 176, 160, 157],
+					"all_points_y": [176, 181, 186, 187, 186, 177, 173, 172, 172]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1098.PNG54212": {
+			"filename": "1098.PNG",
+			"size": 54212,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 144, 138, 133, 130, 132, 136, 144, 154, 168, 180, 186, 193, 193, 190, 182, 169],
+					"all_points_y": [109, 112, 116, 126, 134, 139, 145, 150, 150, 150, 152, 149, 136, 126, 117, 112, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 156, 161, 165, 170, 170, 170, 170, 154, 151],
+					"all_points_y": [156, 164, 167, 167, 161, 155, 152, 150, 150, 151]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01103.PNG60483": {
+			"filename": "01103.PNG",
+			"size": 60483,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 134, 130, 130, 132, 136, 149, 164, 176, 184, 192, 197, 198, 197, 188, 175, 164, 158],
+					"all_points_y": [133, 143, 150, 160, 168, 173, 176, 177, 177, 178, 174, 166, 159, 149, 137, 131, 129, 129]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 159, 163, 166, 170, 173, 173, 160, 156],
+					"all_points_y": [182, 186, 188, 188, 184, 180, 178, 177, 177]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [202, 194, 198, 204, 208],
+					"all_points_y": [165, 173, 174, 171, 168]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1103.PNG59468": {
+			"filename": "1103.PNG",
+			"size": 59468,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 141, 135, 133, 133, 137, 142, 156, 172, 177, 183, 186, 189, 185, 174, 164],
+					"all_points_y": [116, 121, 130, 135, 142, 148, 152, 152, 152, 153, 151, 146, 137, 127, 119, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 153, 158, 162, 167, 170, 170, 170, 147, 147],
+					"all_points_y": [160, 166, 168, 168, 162, 158, 154, 152, 152, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01107.PNG65975": {
+			"filename": "01107.PNG",
+			"size": 65975,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 3,
+					"width": 309,
+					"height": 291
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1108.PNG65973": {
+			"filename": "1108.PNG",
+			"size": 65973,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 154, 144, 138, 133, 133, 134, 140, 149, 162, 173, 180, 190, 195, 191, 186],
+					"all_points_y": [112, 112, 117, 126, 135, 142, 150, 154, 155, 156, 157, 157, 154, 141, 124, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 156, 161, 165, 171, 171, 154],
+					"all_points_y": [160, 165, 168, 167, 162, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 190, 189, 195, 196],
+					"all_points_y": [152, 154, 157, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01112.PNG57705": {
+			"filename": "01112.PNG",
+			"size": 57705,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 144, 138, 137, 140, 152, 161, 176, 188, 197, 199, 194, 184, 165],
+					"all_points_y": [116, 124, 132, 142, 151, 157, 157, 157, 154, 145, 136, 126, 115, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 162, 166, 169, 174, 175, 174, 161, 158],
+					"all_points_y": [164, 170, 172, 172, 165, 160, 157, 157, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [199, 193, 191, 193, 196, 199, 200],
+					"all_points_y": [154, 156, 157, 159, 158, 157, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 191, 200, 204, 203, 202, 196, 186, 176, 175, 175, 176],
+					"all_points_y": [162, 164, 161, 156, 150, 148, 147, 155, 157, 157, 162, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1113.PNG66573": {
+			"filename": "1113.PNG",
+			"size": 66573,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [145, 134, 130, 130, 142, 152, 160, 173, 180, 186, 191, 191, 186, 179, 164],
+					"all_points_y": [116, 126, 135, 143, 154, 157, 158, 156, 154, 150, 144, 135, 124, 117, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 159, 164, 170, 172, 170, 168, 160, 153, 151, 151],
+					"all_points_y": [168, 174, 174, 169, 165, 159, 157, 158, 158, 161, 165]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [189, 185, 182, 183, 186, 189],
+					"all_points_y": [154, 154, 155, 157, 159, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 136, 137, 141, 142, 138],
+					"all_points_y": [154, 157, 158, 158, 156, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [176, 178, 181, 187, 193, 194, 194, 192, 191, 182, 169, 173],
+					"all_points_y": [162, 160, 159, 161, 161, 157, 152, 145, 145, 154, 157, 163]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 130, 131, 134, 141, 146, 151, 152, 154, 141, 134],
+					"all_points_y": [151, 154, 158, 162, 160, 162, 163, 161, 158, 154, 147]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01117.PNG64158": {
+			"filename": "01117.PNG",
+			"size": 64158,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [143, 133, 128, 128, 131, 142, 153, 163, 174, 183, 190, 193, 191, 182, 165, 156],
+					"all_points_y": [112, 121, 132, 139, 144, 151, 155, 155, 154, 149, 144, 135, 123, 114, 110, 110]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 153, 157, 162, 165, 168, 168, 167, 166, 153],
+					"all_points_y": [161, 167, 169, 169, 167, 161, 159, 157, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 181, 181, 183, 186, 190],
+					"all_points_y": [152, 154, 157, 158, 157, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1118.PNG63868": {
+			"filename": "1118.PNG",
+			"size": 63868,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 137, 134, 134, 139, 144, 157, 174, 184, 188, 188, 181, 165, 157],
+					"all_points_y": [119, 127, 133, 141, 151, 155, 158, 155, 149, 142, 136, 123, 118, 118]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 151, 154, 158, 164, 167, 166, 163, 154],
+					"all_points_y": [163, 165, 172, 174, 170, 164, 160, 157, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [188, 183, 180, 178, 179, 186],
+					"all_points_y": [151, 152, 154, 157, 158, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [170, 175, 180, 186, 189, 191, 192, 190, 187, 184, 176, 171, 164, 167, 167],
+					"all_points_y": [161, 159, 159, 160, 160, 157, 151, 147, 145, 149, 155, 156, 158, 160, 164]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01120.PNG59497": {
+			"filename": "01120.PNG",
+			"size": 59497,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 138, 133, 134, 137, 146, 158, 169, 182, 190, 194, 191, 186, 176, 165],
+					"all_points_y": [114, 122, 131, 140, 147, 154, 156, 155, 153, 146, 137, 128, 121, 115, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 159, 163, 169, 173, 172, 166, 155, 154],
+					"all_points_y": [164, 169, 170, 167, 159, 155, 155, 156, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01123.PNG73856": {
+			"filename": "01123.PNG",
+			"size": 73856,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 313,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1123.PNG62723": {
+			"filename": "1123.PNG",
+			"size": 62723,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [173, 159, 151, 147, 143, 139, 138, 142, 150, 162, 175, 184, 194, 194, 191, 184],
+					"all_points_y": [114, 113, 116, 121, 123, 132, 138, 147, 151, 153, 153, 150, 142, 134, 126, 121]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [161, 160, 162, 167, 170, 173, 173, 171, 167, 162],
+					"all_points_y": [156, 161, 164, 164, 164, 162, 158, 154, 153, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [195, 189, 187, 190, 193, 196],
+					"all_points_y": [147, 150, 152, 152, 151, 148]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [145, 142, 137, 142, 146, 147],
+					"all_points_y": [152, 150, 152, 155, 155, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 191, 199, 199, 197, 194, 185, 176, 171, 174],
+					"all_points_y": [155, 156, 154, 148, 141, 142, 150, 153, 154, 158]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 133, 135, 142, 148, 156, 160, 162, 152, 142, 138],
+					"all_points_y": [148, 153, 157, 158, 158, 158, 159, 154, 152, 148, 138]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1127.PNG55017": {
+			"filename": "1127.PNG",
+			"size": 55017,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": 7,
+					"width": 311,
+					"height": 299
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01128.PNG65935": {
+			"filename": "01128.PNG",
+			"size": 65935,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 144, 136, 131, 131, 135, 147, 156, 167, 178, 186, 191, 196, 196, 190, 175, 169],
+					"all_points_y": [106, 109, 116, 124, 131, 141, 147, 149, 149, 148, 144, 140, 133, 122, 112, 106, 104]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 154, 158, 164, 168, 171, 172, 170, 166, 159, 156, 154],
+					"all_points_y": [157, 164, 167, 167, 162, 159, 155, 153, 150, 150, 150, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [192, 184, 181, 185, 190, 191],
+					"all_points_y": [146, 146, 151, 153, 152, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 138, 141, 145, 143, 138],
+					"all_points_y": [148, 151, 153, 150, 146, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01131.PNG73551": {
+			"filename": "01131.PNG",
+			"size": 73551,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 3,
+					"width": 311,
+					"height": 300
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1132.PNG58742": {
+			"filename": "1132.PNG",
+			"size": 58742,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 138, 131, 129, 129, 137, 150, 161, 176, 185, 192, 195, 192, 186, 175],
+					"all_points_y": [105, 114, 122, 135, 143, 153, 155, 156, 157, 153, 147, 139, 123, 112, 106]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 152, 156, 162, 166, 171, 173, 171, 155, 152],
+					"all_points_y": [161, 166, 169, 172, 170, 165, 161, 157, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 192, 190, 193, 196],
+					"all_points_y": [147, 149, 153, 155, 152]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 191, 197, 201, 201, 199, 196, 193, 185, 177, 171, 173, 176, 182],
+					"all_points_y": [159, 160, 159, 152, 145, 140, 139, 147, 154, 157, 158, 160, 159, 158]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01135.PNG58095": {
+			"filename": "01135.PNG",
+			"size": 58095,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 138, 131, 129, 131, 135, 142, 155, 167, 175, 182, 190, 192, 187, 178, 174],
+					"all_points_y": [113, 118, 127, 136, 144, 151, 156, 159, 159, 156, 155, 148, 138, 123, 116, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 153, 158, 161, 166, 169, 170, 169, 158, 153],
+					"all_points_y": [163, 168, 172, 173, 169, 165, 160, 158, 160, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 136, 137, 141, 142, 142, 138],
+					"all_points_y": [157, 160, 161, 162, 160, 157, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1137.PNG56025": {
+			"filename": "1137.PNG",
+			"size": 56025,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 140, 132, 130, 130, 135, 142, 149, 170, 177, 183, 188, 190, 187, 184, 169],
+					"all_points_y": [113, 118, 126, 134, 140, 148, 155, 158, 157, 155, 150, 146, 140, 128, 122, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 153, 157, 162, 165, 169, 170, 167, 149, 148],
+					"all_points_y": [164, 170, 171, 171, 166, 162, 159, 158, 158, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 178, 180, 186, 186],
+					"all_points_y": [155, 158, 162, 159, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 132, 133, 135, 141, 142],
+					"all_points_y": [155, 154, 157, 158, 159, 159]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 126, 130, 136, 140, 143, 148, 148, 150, 142, 134],
+					"all_points_y": [149, 154, 160, 161, 161, 161, 162, 159, 158, 155, 146]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [174, 182, 186, 189, 190, 188, 187, 177, 168, 170, 170],
+					"all_points_y": [161, 164, 164, 162, 154, 148, 148, 155, 158, 160, 162]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01138.PNG63756": {
+			"filename": "01138.PNG",
+			"size": 63756,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": 3,
+					"width": 309,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01141.PNG67942": {
+			"filename": "01141.PNG",
+			"size": 67942,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 139, 135, 134, 140, 150, 159, 170, 178, 184, 190, 192, 187, 180, 170, 161],
+					"all_points_y": [116, 125, 134, 143, 152, 157, 160, 159, 158, 154, 149, 141, 127, 118, 114, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [190, 186, 185, 186, 190, 192, 192],
+					"all_points_y": [153, 154, 158, 159, 158, 158, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [136, 132, 133, 136, 140],
+					"all_points_y": [154, 154, 158, 159, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 152, 155, 157, 160, 163, 167, 171, 170, 168, 158, 154, 152],
+					"all_points_y": [162, 165, 171, 172, 174, 172, 167, 164, 161, 160, 160, 158, 159]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1143.PNG62618": {
+			"filename": "1143.PNG",
+			"size": 62618,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [161, 145, 139, 135, 136, 140, 148, 157, 164, 176, 185, 193, 196, 197, 190, 179],
+					"all_points_y": [110, 115, 120, 130, 138, 149, 156, 157, 159, 157, 156, 149, 140, 129, 117, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 158, 164, 168, 172, 176, 176, 175, 164, 158, 155],
+					"all_points_y": [163, 167, 170, 169, 167, 163, 160, 158, 160, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01144.PNG61239": {
+			"filename": "01144.PNG",
+			"size": 61239,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 149, 141, 136, 130, 128, 130, 134, 144, 160, 174, 179, 188, 193, 193, 191, 182, 173],
+					"all_points_y": [110, 111, 113, 118, 128, 140, 148, 154, 159, 160, 161, 160, 155, 145, 134, 126, 116, 112]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 156, 160, 169, 170, 170, 158, 152],
+					"all_points_y": [163, 168, 170, 166, 162, 161, 160, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [196, 191, 188, 188, 194, 197],
+					"all_points_y": [154, 153, 156, 158, 158, 156]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [124, 125, 129, 133, 131, 125],
+					"all_points_y": [152, 155, 158, 157, 154, 149]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1148.PNG59183": {
+			"filename": "1148.PNG",
+			"size": 59183,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 5,
+					"width": 311,
+					"height": 299
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01149.PNG62826": {
+			"filename": "01149.PNG",
+			"size": 62826,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 146, 139, 137, 135, 141, 148, 156, 163, 171, 180, 188, 191, 189, 185, 176],
+					"all_points_y": [107, 112, 118, 124, 137, 143, 147, 151, 151, 150, 146, 140, 132, 124, 117, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 159, 163, 170, 172, 174, 174, 171, 162, 155],
+					"all_points_y": [156, 163, 164, 158, 154, 153, 150, 150, 152, 152]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [184, 188, 191, 188, 186],
+					"all_points_y": [148, 148, 145, 143, 144]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1153.PNG60933": {
+			"filename": "1153.PNG",
+			"size": 60933,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 4,
+					"width": 313,
+					"height": 299
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01154.PNG61309": {
+			"filename": "01154.PNG",
+			"size": 61309,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 137, 131, 129, 132, 139, 148, 155, 167, 180, 188, 191, 188, 181, 168],
+					"all_points_y": [107, 114, 124, 133, 141, 150, 154, 156, 153, 149, 138, 131, 123, 113, 108]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [192, 188, 185, 184, 188, 190, 193],
+					"all_points_y": [139, 142, 144, 147, 147, 145, 142]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [129, 131, 138, 136, 135, 131],
+					"all_points_y": [147, 150, 152, 148, 146, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 156, 159, 163, 166, 170, 170, 169, 155, 153],
+					"all_points_y": [160, 165, 167, 166, 164, 157, 154, 153, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1156.PNG55731": {
+			"filename": "1156.PNG",
+			"size": 55731,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 145, 137, 132, 135, 139, 147, 162, 175, 186, 189, 189, 184, 175],
+					"all_points_y": [114, 118, 122, 134, 142, 150, 154, 156, 155, 150, 143, 136, 125, 117]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 155, 161, 165, 168, 171, 171, 162, 155, 154],
+					"all_points_y": [161, 168, 171, 169, 164, 160, 156, 156, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [186, 195, 194, 189, 185],
+					"all_points_y": [155, 151, 149, 150, 154]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 131, 135, 135, 133],
+					"all_points_y": [146, 151, 152, 150, 147]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 187, 194, 198, 197, 192, 190, 189, 187, 176, 172, 171, 175],
+					"all_points_y": [156, 159, 159, 152, 145, 137, 136, 144, 150, 155, 156, 160, 157]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [126, 126, 134, 141, 146, 150, 153, 155, 147, 139, 134, 133, 131],
+					"all_points_y": [149, 155, 160, 158, 156, 158, 159, 156, 154, 150, 141, 138, 140]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01159.PNG56681": {
+			"filename": "01159.PNG",
+			"size": 56681,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [155, 140, 132, 130, 133, 144, 152, 161, 175, 185, 191, 191, 184, 170],
+					"all_points_y": [102, 108, 118, 129, 137, 146, 151, 152, 150, 145, 137, 125, 112, 106]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 153, 158, 164, 168, 167, 153, 149, 148],
+					"all_points_y": [155, 162, 163, 162, 156, 152, 152, 150, 151]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1159.PNG63593": {
+			"filename": "1159.PNG",
+			"size": 63593,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [162, 150, 142, 138, 137, 136, 137, 141, 151, 164, 177, 189, 192, 192, 186, 173],
+					"all_points_y": [108, 110, 116, 121, 123, 129, 138, 145, 150, 149, 149, 143, 135, 126, 116, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 155, 160, 164, 168, 168, 168, 155, 154],
+					"all_points_y": [157, 160, 161, 161, 158, 153, 149, 150, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [195, 192, 188, 191, 194, 197],
+					"all_points_y": [140, 141, 146, 146, 146, 143]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [130, 138, 138, 137, 136, 133, 131],
+					"all_points_y": [143, 149, 148, 144, 141, 141, 141]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01164.PNG63464": {
+			"filename": "01164.PNG",
+			"size": 63464,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 5,
+					"y": 3,
+					"width": 310,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1164.PNG62709": {
+			"filename": "1164.PNG",
+			"size": 62709,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 1,
+					"width": 314,
+					"height": 304
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01168.PNG58876": {
+			"filename": "01168.PNG",
+			"size": 58876,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [169, 161, 152, 147, 142, 139, 140, 143, 149, 162, 178, 189, 195, 202, 201, 192, 185],
+					"all_points_y": [116, 115, 118, 120, 126, 137, 144, 149, 155, 157, 158, 156, 153, 146, 134, 123, 118]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [164, 167, 172, 175, 177, 182, 181, 163, 161, 161],
+					"all_points_y": [166, 170, 171, 170, 165, 162, 158, 158, 158, 160]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [202, 195, 193, 198, 202],
+					"all_points_y": [152, 156, 159, 160, 158]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [138, 145, 147, 143, 139],
+					"all_points_y": [155, 158, 158, 154, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [194, 196, 199, 204, 206, 206, 203, 194, 188, 181, 182, 185, 188],
+					"all_points_y": [165, 165, 165, 161, 157, 150, 146, 154, 157, 158, 162, 162, 161]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 133, 134, 139, 144, 149, 156, 160, 161, 161, 149, 142, 135],
+					"all_points_y": [153, 156, 160, 163, 163, 162, 161, 160, 160, 157, 155, 148, 150]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1169.PNG56905": {
+			"filename": "1169.PNG",
+			"size": 56905,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 144, 137, 133, 132, 133, 140, 161, 175, 190, 192, 198, 198, 191, 180, 167],
+					"all_points_y": [109, 116, 122, 127, 133, 142, 149, 159, 157, 152, 150, 141, 131, 120, 112, 109]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 152, 153, 163, 169, 174, 175, 173, 170, 163, 157],
+					"all_points_y": [164, 170, 176, 182, 178, 171, 166, 162, 158, 159, 158]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [194, 186, 183, 190, 193],
+					"all_points_y": [154, 155, 159, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 131, 133, 140, 144],
+					"all_points_y": [153, 153, 155, 156, 155]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [180, 186, 194, 198, 201, 201, 199, 191, 183, 170, 174, 176],
+					"all_points_y": [163, 162, 163, 160, 153, 148, 142, 152, 155, 158, 162, 168]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [129, 127, 128, 131, 135, 140, 147, 151, 153, 158, 148, 139, 133],
+					"all_points_y": [147, 154, 157, 160, 160, 160, 163, 165, 163, 157, 153, 148, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01172.PNG58515": {
+			"filename": "01172.PNG",
+			"size": 58515,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 13,
+					"y": 13,
+					"width": 302,
+					"height": 285
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1174.PNG68612": {
+			"filename": "1174.PNG",
+			"size": 68612,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [161, 146, 140, 133, 131, 131, 141, 154, 163, 173, 182, 189, 193, 189, 177],
+					"all_points_y": [103, 106, 110, 117, 128, 138, 146, 151, 151, 149, 147, 142, 129, 115, 106]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 152, 158, 164, 168, 169, 165, 163, 156, 154],
+					"all_points_y": [157, 163, 166, 164, 159, 155, 152, 152, 151, 152]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [183, 191, 193, 190, 187, 182, 180],
+					"all_points_y": [153, 149, 145, 144, 145, 150, 153]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [134, 136, 140, 145, 143, 136, 134, 132],
+					"all_points_y": [147, 152, 153, 151, 148, 144, 144, 145]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01179.PNG51966": {
+			"filename": "01179.PNG",
+			"size": 51966,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 6,
+					"y": -1,
+					"width": 309,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1179.PNG67574": {
+			"filename": "1179.PNG",
+			"size": 67574,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 142, 135, 130, 130, 132, 138, 141, 149, 161, 170, 175, 179, 188, 189, 184, 174, 165],
+					"all_points_y": [115, 118, 123, 132, 137, 142, 149, 151, 151, 152, 153, 154, 152, 142, 134, 125, 119, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 149, 156, 162, 166, 169, 170, 169, 152, 148],
+					"all_points_y": [158, 164, 169, 169, 165, 160, 156, 153, 151, 153]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [192, 187, 183, 184, 188, 192, 194],
+					"all_points_y": [145, 147, 150, 151, 149, 147, 146]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [177, 184, 190, 196, 199, 198, 194, 189, 189, 180, 176, 169, 171],
+					"all_points_y": [157, 158, 157, 153, 149, 144, 140, 135, 142, 151, 154, 153, 158]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01184.PNG58165": {
+			"filename": "01184.PNG",
+			"size": 58165,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 1,
+					"width": 311,
+					"height": 299
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1186.PNG61655": {
+			"filename": "1186.PNG",
+			"size": 61655,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [160, 148, 142, 140, 141, 150, 160, 167, 179, 181, 186, 192, 195, 191, 182, 175],
+					"all_points_y": [112, 117, 124, 134, 143, 149, 150, 152, 152, 153, 153, 146, 135, 123, 115, 113]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 153, 158, 164, 168, 173, 172, 170, 161, 157, 156],
+					"all_points_y": [153, 157, 164, 164, 164, 159, 154, 152, 151, 150, 150]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01187.PNG56763": {
+			"filename": "01187.PNG",
+			"size": 56763,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 145, 137, 131, 131, 131, 135, 146, 155, 169, 179, 186, 192, 195, 186, 176, 164],
+					"all_points_y": [111, 111, 118, 128, 133, 139, 149, 154, 155, 155, 154, 150, 144, 134, 120, 113, 111]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 154, 161, 166, 172, 172, 170, 157, 155],
+					"all_points_y": [160, 167, 169, 168, 165, 158, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [131, 135, 140, 138, 133],
+					"all_points_y": [152, 155, 156, 152, 151]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [181, 187, 193, 198, 197, 195, 193, 184, 179, 170, 172, 173],
+					"all_points_y": [157, 160, 158, 154, 147, 143, 144, 152, 154, 156, 158, 162]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [126, 133, 135, 139, 145, 147, 151, 156, 146, 135, 133],
+					"all_points_y": [152, 157, 160, 160, 158, 158, 160, 155, 154, 148, 143]
+				},
+				"region_attributes": {
+					"A3": "neural foramen"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"1190.PNG63423": {
+			"filename": "1190.PNG",
+			"size": 63423,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [159, 157, 146, 139, 133, 131, 134, 139, 142, 167, 179, 187, 192, 194, 190, 180, 174],
+					"all_points_y": [114, 114, 116, 123, 132, 140, 147, 152, 153, 154, 153, 150, 146, 140, 128, 117, 115]
+				},
+				"region_attributes": {
+					"A3": "disc"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 152, 157, 162, 169, 172, 174, 172, 169, 153, 150],
+					"all_points_y": [161, 170, 174, 173, 170, 163, 158, 155, 154, 154, 157]
+				},
+				"region_attributes": {
+					"A3": "spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [199, 192, 194, 199, 202, 202],
+					"all_points_y": [143, 151, 151, 149, 146, 144]
+				},
+				"region_attributes": {
+					"A3": "nerv"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01192.PNG70640": {
+			"filename": "01192.PNG",
+			"size": 70640,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 1,
+					"y": 7,
+					"width": 313,
+					"height": 297
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"01197.PNG63212": {
+			"filename": "01197.PNG",
+			"size": 63212,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 1,
+					"width": 309,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		}
+	},
+	"_via_attributes": {
+		"region": {
+			"A3": {
+				"type": "radio",
+				"description": "",
+				"options": {
+					"spinal canal": "",
+					"disc": "",
+					"nerv": "",
+					"neural foramen ": "",
+					"defective": ""
+				},
+				"default_options": {
+					"spinal canal": true
+				}
+			}
+		},
+		"file": {}
+	}
+}

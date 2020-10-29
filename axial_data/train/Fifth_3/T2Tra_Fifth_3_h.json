@@ -1,0 +1,1600 @@
+{
+	"_via_settings": {
+		"ui": {
+			"annotation_editor_height": 20,
+			"annotation_editor_fontsize": 0.8,
+			"leftsidebar_width": 18,
+			"image_grid": {
+				"img_height": 80,
+				"rshape_fill": "none",
+				"rshape_fill_opacity": 0.3,
+				"rshape_stroke": "yellow",
+				"rshape_stroke_width": 2,
+				"show_region_shape": true,
+				"show_image_policy": "all"
+			},
+			"image": {
+				"region_label": "__via_region_id__",
+				"region_color": "size",
+				"region_label_font": "10px Sans",
+				"on_image_annotation_editor_placement": "NEAR_REGION"
+			}
+		},
+		"core": {
+			"buffer_size": "18",
+			"filepath": {
+				"pictures/": 1
+			},
+			"default_filepath": "pictures/"
+		},
+		"project": {
+			"name": "T2Tra_Fifth_3"
+		}
+	},
+	"_via_img_metadata": {
+		"00392.PNG59170": {
+			"filename": "00392.PNG",
+			"size": 59170,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 153, 158, 163, 166, 167, 166, 164, 162, 160, 158, 156, 152, 148, 147, 148],
+					"all_points_y": [162, 160, 160, 161, 162, 165, 169, 175, 178, 182, 182, 178, 175, 172, 167, 163]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00395.PNG63162": {
+			"filename": "00395.PNG",
+			"size": 63162,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 314,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0395.PNG58335": {
+			"filename": "0395.PNG",
+			"size": 58335,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 150, 151, 155, 157, 158, 159, 160, 161, 162, 164, 166, 168, 171, 171, 170, 166, 161, 157, 154],
+					"all_points_y": [158, 161, 163, 166, 169, 171, 174, 176, 178, 179, 179, 177, 172, 169, 165, 161, 158, 156, 155, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00396.PNG53179": {
+			"filename": "00396.PNG",
+			"size": 53179,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 150, 153, 155, 157, 157, 159, 160, 163, 165, 166, 166, 165, 163, 160, 156, 153, 151],
+					"all_points_y": [158, 161, 164, 167, 170, 174, 177, 177, 177, 175, 170, 167, 164, 162, 159, 157, 156, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0398.PNG54994": {
+			"filename": "0398.PNG",
+			"size": 54994,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 150, 151, 154, 157, 159, 160, 162, 163, 164, 166, 168, 172, 172, 170, 168, 162, 159, 156, 153],
+					"all_points_y": [155, 158, 160, 163, 165, 166, 169, 173, 176, 177, 177, 174, 167, 162, 159, 156, 155, 154, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00400.PNG59170": {
+			"filename": "00400.PNG",
+			"size": 59170,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 148, 149, 151, 154, 157, 158, 159, 160, 161, 163, 165, 166, 166, 165, 163, 158, 153, 150],
+					"all_points_y": [164, 167, 171, 174, 177, 180, 182, 182, 182, 179, 176, 172, 169, 166, 162, 161, 160, 160, 161]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00401.PNG53364": {
+			"filename": "00401.PNG",
+			"size": 53364,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 4,
+					"width": 251,
+					"height": 248
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0401.PNG61822": {
+			"filename": "0401.PNG",
+			"size": 61822,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 1,
+					"y": 1,
+					"width": 316,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00403.PNG63091": {
+			"filename": "00403.PNG",
+			"size": 63091,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 153, 155, 157, 159, 160, 160, 162, 164, 165, 166, 166, 167, 169, 171, 172, 171, 168, 163, 159, 154],
+					"all_points_y": [155, 158, 161, 163, 165, 168, 168, 169, 171, 172, 172, 170, 167, 164, 160, 156, 153, 151, 150, 150, 152]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00405.PNG56279": {
+			"filename": "00405.PNG",
+			"size": 56279,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 150, 154, 157, 159, 160, 162, 163, 164, 167, 170, 171, 170, 169, 165, 161, 157, 153],
+					"all_points_y": [155, 157, 160, 163, 166, 169, 174, 175, 175, 172, 168, 164, 162, 159, 156, 155, 153, 152, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00406.PNG62131": {
+			"filename": "00406.PNG",
+			"size": 62131,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 152, 152, 152, 155, 158, 161, 163, 164, 165, 166, 166, 168, 169, 170, 171, 173, 174, 174, 172, 170, 164, 161, 161, 156],
+					"all_points_y": [157, 159, 162, 165, 168, 171, 174, 177, 179, 179, 178, 176, 174, 172, 170, 169, 167, 164, 161, 158, 156, 155, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0406.PNG58717": {
+			"filename": "0406.PNG",
+			"size": 58717,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 150, 153, 156, 159, 160, 161, 163, 164, 166, 168, 171, 173, 174, 174, 173, 169, 165, 162, 158, 155],
+					"all_points_y": [158, 161, 164, 168, 172, 175, 178, 180, 180, 179, 177, 173, 170, 167, 164, 161, 159, 156, 154, 154, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00408.PNG54273": {
+			"filename": "00408.PNG",
+			"size": 54273,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 151, 152, 155, 158, 161, 163, 164, 165, 166, 167, 170, 173, 177, 178, 178, 177, 175, 169, 164, 159, 154],
+					"all_points_y": [160, 164, 167, 172, 174, 176, 180, 183, 184, 183, 181, 176, 172, 168, 166, 164, 161, 159, 157, 156, 156, 158]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00409.PNG55173": {
+			"filename": "00409.PNG",
+			"size": 55173,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 146, 147, 149, 155, 159, 160, 161, 161, 163, 163, 163, 165, 166, 169, 173, 175, 175, 175, 173, 170, 165, 161, 159, 156, 151],
+					"all_points_y": [159, 162, 165, 167, 171, 174, 177, 181, 181, 181, 181, 178, 175, 172, 170, 167, 164, 162, 160, 158, 156, 155, 156, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0409.PNG64330": {
+			"filename": "0409.PNG",
+			"size": 64330,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 150, 152, 156, 159, 160, 161, 162, 162, 163, 163, 164, 165, 167, 168, 170, 171, 172, 172, 170, 163, 156, 152],
+					"all_points_y": [162, 165, 169, 172, 174, 175, 177, 180, 180, 180, 180, 177, 175, 172, 169, 166, 164, 162, 160, 159, 159, 159, 160]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0410.PNG61669": {
+			"filename": "0410.PNG",
+			"size": 61669,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 4,
+					"width": 314,
+					"height": 300
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00412.PNG55127": {
+			"filename": "00412.PNG",
+			"size": 55127,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 143, 142, 142, 144, 149, 154, 156, 158, 159, 160, 161, 162, 165, 168, 170, 171, 171, 169, 164, 158, 155, 150, 146],
+					"all_points_y": [166, 168, 170, 172, 175, 178, 182, 186, 191, 191, 191, 187, 184, 179, 175, 173, 170, 168, 166, 164, 163, 163, 164, 165]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00413.PNG56279": {
+			"filename": "00413.PNG",
+			"size": 56279,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 149, 153, 156, 158, 159, 160, 161, 162, 163, 165, 166, 168, 170, 171, 171, 169, 165, 161, 156, 151],
+					"all_points_y": [155, 157, 159, 162, 165, 168, 170, 173, 175, 175, 174, 171, 168, 166, 164, 161, 159, 156, 154, 153, 152, 152, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00414.PNG62157": {
+			"filename": "00414.PNG",
+			"size": 62157,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 151, 155, 156, 157, 157, 158, 158, 159, 160, 161, 163, 165, 166, 166, 165, 163, 158, 155, 152],
+					"all_points_y": [156, 159, 163, 167, 171, 173, 176, 178, 179, 179, 179, 177, 173, 170, 167, 163, 159, 156, 154, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00415.PNG53940": {
+			"filename": "00415.PNG",
+			"size": 53940,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 147, 148, 151, 154, 157, 159, 159, 160, 161, 163, 165, 167, 169, 170, 169, 168, 165, 160, 157, 153, 150],
+					"all_points_y": [155, 159, 162, 166, 169, 171, 175, 175, 175, 173, 171, 168, 166, 164, 160, 157, 155, 153, 151, 151, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0415.PNG59291": {
+			"filename": "0415.PNG",
+			"size": 59291,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 150, 151, 153, 156, 157, 158, 159, 160, 161, 164, 166, 167, 167, 165, 163, 158, 155, 152],
+					"all_points_y": [148, 151, 155, 158, 160, 163, 166, 166, 166, 163, 159, 155, 152, 149, 147, 146, 145, 145, 146]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00417.PNG59959": {
+			"filename": "00417.PNG",
+			"size": 59959,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 149, 149, 151, 153, 157, 158, 158, 160, 162, 162, 164, 166, 168, 171, 172, 171, 169, 165, 160, 155],
+					"all_points_y": [156, 159, 161, 164, 167, 169, 172, 174, 174, 180, 180, 180, 177, 173, 170, 166, 163, 160, 157, 154, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0418.PNG58053": {
+			"filename": "0418.PNG",
+			"size": 58053,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 149, 153, 155, 157, 157, 158, 160, 161, 162, 164, 166, 168, 169, 170, 169, 166, 163, 159, 155],
+					"all_points_y": [159, 162, 164, 167, 171, 173, 176, 176, 179, 181, 181, 180, 176, 173, 170, 167, 163, 160, 158, 156, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00419.PNG62503": {
+			"filename": "00419.PNG",
+			"size": 62503,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 0,
+					"y": 2,
+					"width": 318,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00420.PNG57730": {
+			"filename": "00420.PNG",
+			"size": 57730,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 149, 149, 151, 153, 157, 157, 160, 161, 162, 162, 164, 166, 169, 170, 170, 168, 166, 162, 157, 153],
+					"all_points_y": [154, 156, 159, 162, 164, 168, 168, 173, 174, 174, 174, 171, 167, 162, 159, 157, 154, 153, 152, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00421.PNG55127": {
+			"filename": "00421.PNG",
+			"size": 55127,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 142, 142, 143, 145, 149, 153, 156, 157, 158, 159, 160, 161, 164, 167, 169, 170, 169, 165, 160, 154, 148],
+					"all_points_y": [166, 169, 171, 174, 176, 179, 181, 185, 189, 191, 192, 189, 186, 181, 176, 174, 171, 167, 165, 163, 162, 164]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00422.PNG62122": {
+			"filename": "00422.PNG",
+			"size": 62122,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 149, 150, 153, 155, 156, 156, 157, 159, 159, 161, 162, 163, 165, 165, 165, 163, 160, 155],
+					"all_points_y": [132, 134, 137, 140, 145, 149, 154, 158, 158, 153, 153, 147, 145, 143, 140, 138, 135, 132, 131, 131]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0423.PNG57649": {
+			"filename": "0423.PNG",
+			"size": 57649,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 146, 146, 147, 149, 154, 156, 156, 159, 160, 161, 162, 164, 166, 167, 168, 168, 167, 164, 159, 154, 151],
+					"all_points_y": [151, 154, 157, 159, 161, 165, 168, 168, 174, 174, 174, 171, 166, 162, 160, 158, 155, 152, 150, 149, 149, 150]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00424.PNG57729": {
+			"filename": "00424.PNG",
+			"size": 57729,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 153, 153, 155, 159, 161, 161, 161, 162, 163, 164, 165, 166, 169, 171, 172, 172, 169, 165, 161, 156],
+					"all_points_y": [156, 159, 162, 165, 169, 171, 171, 171, 177, 177, 176, 174, 171, 167, 164, 162, 158, 155, 154, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00425.PNG59282": {
+			"filename": "00425.PNG",
+			"size": 59282,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 149, 149, 151, 155, 159, 160, 161, 162, 163, 164, 165, 166, 168, 172, 174, 175, 175, 172, 166, 162, 157, 153],
+					"all_points_y": [158, 160, 162, 166, 169, 172, 175, 179, 181, 181, 181, 179, 175, 171, 168, 166, 162, 159, 156, 154, 154, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00428.PNG55981": {
+			"filename": "00428.PNG",
+			"size": 55981,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 149, 150, 153, 156, 156, 158, 159, 160, 161, 163, 166, 168, 169, 169, 168, 166, 162, 157, 153],
+					"all_points_y": [170, 173, 176, 179, 182, 186, 186, 191, 192, 192, 191, 189, 185, 181, 178, 174, 172, 170, 168, 168, 169]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0428.PNG56005": {
+			"filename": "0428.PNG",
+			"size": 56005,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 144, 144, 145, 147, 152, 155, 156, 156, 157, 159, 160, 161, 161, 162, 164, 168, 170, 170, 170, 168, 165, 160, 157, 153, 149],
+					"all_points_y": [161, 164, 167, 171, 173, 178, 180, 183, 185, 187, 187, 185, 183, 180, 178, 177, 174, 171, 169, 165, 162, 160, 160, 160, 159, 159]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00429.PNG57554": {
+			"filename": "00429.PNG",
+			"size": 57554,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 146, 147, 148, 152, 154, 156, 157, 158, 159, 160, 160, 161, 164, 168, 169, 169, 167, 166, 161, 157, 152],
+					"all_points_y": [157, 159, 162, 165, 167, 171, 175, 179, 181, 181, 180, 178, 175, 173, 170, 166, 165, 162, 159, 158, 156, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00431.PNG58163": {
+			"filename": "00431.PNG",
+			"size": 58163,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 147, 148, 150, 153, 155, 156, 157, 157, 158, 159, 159, 161, 162, 164, 168, 169, 169, 167, 163, 157],
+					"all_points_y": [157, 159, 162, 165, 169, 172, 175, 179, 182, 182, 182, 179, 176, 173, 170, 168, 165, 163, 161, 158, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0433.PNG61250": {
+			"filename": "0433.PNG",
+			"size": 61250,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 146, 146, 147, 150, 154, 157, 159, 159, 159, 160, 161, 163, 165, 167, 169, 171, 172, 172, 171, 166, 160, 153],
+					"all_points_y": [156, 158, 160, 163, 165, 168, 172, 175, 180, 182, 182, 182, 181, 177, 173, 171, 169, 167, 164, 160, 158, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00434.PNG58080": {
+			"filename": "00434.PNG",
+			"size": 58080,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 150, 150, 151, 153, 156, 159, 161, 162, 163, 164, 166, 168, 169, 171, 172, 172, 171, 169, 165, 161, 157, 153],
+					"all_points_y": [167, 169, 171, 175, 179, 182, 187, 192, 192, 192, 189, 185, 183, 179, 177, 173, 170, 167, 165, 163, 163, 163, 165]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00437.PNG55981": {
+			"filename": "00437.PNG",
+			"size": 55981,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 150, 151, 154, 157, 158, 159, 160, 161, 164, 167, 169, 169, 168, 165, 162, 158, 153],
+					"all_points_y": [170, 173, 176, 179, 183, 187, 190, 192, 192, 191, 188, 184, 180, 175, 171, 169, 168, 168, 169]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0438.PNG57750": {
+			"filename": "0438.PNG",
+			"size": 57750,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 147, 147, 149, 153, 157, 158, 159, 159, 160, 161, 163, 164, 167, 168, 168, 166, 163, 159, 156, 151],
+					"all_points_y": [167, 170, 173, 175, 177, 180, 182, 185, 185, 185, 182, 179, 177, 175, 173, 170, 167, 165, 164, 164, 165]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00439.PNG58243": {
+			"filename": "00439.PNG",
+			"size": 58243,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 147, 148, 150, 154, 156, 158, 159, 160, 161, 162, 163, 164, 165, 167, 169, 171, 172, 172, 171, 165, 160, 155, 152],
+					"all_points_y": [158, 161, 163, 166, 168, 172, 174, 178, 182, 183, 183, 183, 181, 178, 175, 172, 169, 166, 164, 161, 158, 155, 154, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00440.PNG58163": {
+			"filename": "00440.PNG",
+			"size": 58163,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 147, 147, 148, 150, 153, 155, 156, 157, 157, 158, 159, 160, 161, 163, 167, 169, 169, 167, 162, 157, 153],
+					"all_points_y": [158, 160, 162, 165, 168, 172, 175, 179, 182, 182, 182, 178, 176, 173, 170, 166, 163, 160, 158, 156, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00443.PNG60968": {
+			"filename": "00443.PNG",
+			"size": 60968,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 151, 152, 154, 156, 158, 158, 160, 162, 163, 164, 166, 167, 169, 170, 170, 168, 165, 160, 157, 154],
+					"all_points_y": [159, 162, 166, 170, 173, 176, 176, 180, 180, 178, 175, 172, 169, 167, 164, 161, 158, 156, 155, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0443.PNG59121": {
+			"filename": "0443.PNG",
+			"size": 59121,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 0,
+					"width": 316,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00444.PNG60336": {
+			"filename": "00444.PNG",
+			"size": 60336,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 146, 146, 147, 149, 153, 156, 158, 159, 160, 161, 161, 163, 164, 165, 167, 169, 170, 170, 168, 164, 158, 152],
+					"all_points_y": [156, 158, 162, 164, 166, 169, 172, 175, 175, 175, 173, 173, 172, 170, 168, 166, 164, 161, 158, 156, 155, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00448.PNG61251": {
+			"filename": "00448.PNG",
+			"size": 61251,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 149, 150, 153, 158, 160, 161, 162, 162, 163, 164, 165, 166, 167, 168, 171, 173, 174, 174, 172, 167, 162, 157, 153],
+					"all_points_y": [158, 161, 164, 166, 170, 174, 176, 177, 181, 181, 184, 184, 183, 179, 176, 172, 168, 166, 163, 160, 157, 155, 155, 155, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00449.PNG54020": {
+			"filename": "00449.PNG",
+			"size": 54020,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [139, 136, 135, 136, 138, 142, 144, 145, 146, 147, 148, 150, 153, 156, 158, 159, 159, 157, 153, 147, 142],
+					"all_points_y": [156, 158, 161, 164, 168, 172, 175, 178, 179, 180, 180, 178, 174, 172, 170, 167, 164, 160, 157, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0450.PNG59245": {
+			"filename": "0450.PNG",
+			"size": 59245,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 144, 143, 143, 143, 145, 148, 151, 153, 154, 154, 155, 156, 157, 158, 160, 161, 163, 166, 167, 168, 167, 165, 160, 155, 151],
+					"all_points_y": [156, 158, 160, 162, 163, 167, 170, 173, 175, 177, 177, 181, 181, 179, 177, 175, 172, 169, 167, 165, 162, 159, 157, 154, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00451.PNG61090": {
+			"filename": "00451.PNG",
+			"size": 61090,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 151, 152, 154, 157, 161, 163, 165, 166, 167, 167, 168, 168, 169, 171, 173, 175, 175, 174, 172, 169, 163, 160, 156],
+					"all_points_y": [165, 168, 171, 174, 176, 180, 183, 186, 188, 188, 188, 186, 182, 179, 176, 172, 169, 167, 164, 162, 161, 160, 160, 162]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00452.PNG56954": {
+			"filename": "00452.PNG",
+			"size": 56954,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 147, 149, 153, 157, 160, 161, 162, 164, 164, 167, 170, 172, 173, 173, 172, 169, 164, 159, 153],
+					"all_points_y": [154, 156, 159, 162, 166, 172, 177, 179, 179, 175, 175, 169, 165, 163, 161, 159, 156, 154, 152, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0453.PNG57857": {
+			"filename": "0453.PNG",
+			"size": 57857,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 148, 149, 153, 157, 160, 162, 162, 163, 165, 167, 168, 172, 175, 176, 175, 173, 164, 159, 153],
+					"all_points_y": [156, 158, 160, 162, 164, 167, 170, 174, 177, 177, 177, 175, 172, 170, 166, 163, 161, 158, 156, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00454.PNG66339": {
+			"filename": "00454.PNG",
+			"size": 66339,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 3,
+					"width": 314,
+					"height": 303
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00456.PNG59578": {
+			"filename": "00456.PNG",
+			"size": 59578,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 4,
+					"y": 4,
+					"width": 312,
+					"height": 298
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00457.PNG61251": {
+			"filename": "00457.PNG",
+			"size": 61251,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 150, 149, 149, 150, 153, 157, 160, 162, 163, 164, 164, 165, 166, 167, 168, 169, 170, 172, 174, 174, 172, 170, 166, 160, 155],
+					"all_points_y": [158, 160, 162, 165, 167, 169, 173, 176, 179, 183, 184, 184, 183, 180, 177, 174, 172, 170, 167, 164, 160, 157, 156, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0458.PNG56989": {
+			"filename": "0458.PNG",
+			"size": 56989,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 150, 152, 156, 159, 160, 161, 162, 163, 163, 164, 165, 168, 170, 171, 172, 173, 173, 171, 168, 163, 158, 153],
+					"all_points_y": [156, 159, 162, 165, 168, 172, 175, 178, 180, 180, 180, 180, 177, 175, 172, 169, 167, 165, 162, 159, 156, 154, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00459.PNG58511": {
+			"filename": "00459.PNG",
+			"size": 58511,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 3,
+					"y": 2,
+					"width": 312,
+					"height": 301
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00460.PNG61090": {
+			"filename": "00460.PNG",
+			"size": 61090,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [153, 152, 152, 154, 157, 160, 163, 165, 166, 167, 168, 168, 168, 169, 172, 174, 175, 175, 174, 173, 171, 166, 164, 161, 156],
+					"all_points_y": [164, 167, 170, 173, 176, 179, 183, 187, 188, 188, 184, 184, 180, 177, 174, 171, 169, 166, 163, 162, 161, 160, 160, 160, 162]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00463.PNG58314": {
+			"filename": "00463.PNG",
+			"size": 58314,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 149, 149, 151, 155, 158, 160, 161, 162, 164, 166, 169, 172, 173, 173, 171, 168, 163, 158, 153],
+					"all_points_y": [159, 161, 163, 166, 170, 173, 177, 178, 177, 174, 172, 169, 166, 165, 162, 160, 158, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0464.PNG55656": {
+			"filename": "0464.PNG",
+			"size": 55656,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 143, 142, 143, 144, 148, 151, 153, 155, 156, 158, 159, 161, 165, 168, 169, 168, 166, 161, 155, 149],
+					"all_points_y": [156, 158, 161, 164, 166, 169, 171, 173, 175, 177, 177, 176, 172, 168, 165, 163, 159, 156, 154, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00465.PNG59578": {
+			"filename": "00465.PNG",
+			"size": 59578,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 145, 144, 145, 148, 152, 156, 159, 162, 164, 168, 169, 168, 166, 164, 159, 151],
+					"all_points_y": [156, 158, 160, 163, 167, 171, 174, 174, 172, 169, 166, 163, 160, 158, 157, 156, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00466.PNG53126": {
+			"filename": "00466.PNG",
+			"size": 53126,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 150, 154, 159, 161, 164, 166, 168, 171, 171, 169, 165, 159, 154, 152],
+					"all_points_y": [162, 165, 169, 171, 173, 177, 178, 178, 176, 172, 168, 164, 161, 159, 158, 159, 160]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00468.PNG63162": {
+			"filename": "00468.PNG",
+			"size": 63162,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 1,
+					"y": 2,
+					"width": 316,
+					"height": 304
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0469.PNG57396": {
+			"filename": "0469.PNG",
+			"size": 57396,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 150, 150, 151, 154, 157, 161, 162, 163, 165, 167, 170, 171, 171, 170, 168, 165, 160, 157, 154],
+					"all_points_y": [152, 155, 158, 161, 163, 167, 170, 174, 174, 172, 168, 165, 162, 160, 158, 155, 152, 151, 150, 150, 151]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00471.PNG62888": {
+			"filename": "00471.PNG",
+			"size": 62888,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 147, 147, 148, 150, 154, 157, 159, 160, 161, 161, 162, 163, 163, 164, 165, 167, 167, 169, 171, 173, 174, 174, 171, 165, 157, 152],
+					"all_points_y": [157, 158, 161, 163, 165, 167, 170, 172, 174, 175, 178, 180, 180, 178, 175, 174, 173, 170, 170, 168, 166, 164, 161, 159, 156, 154, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0472.PNG58901": {
+			"filename": "0472.PNG",
+			"size": 58901,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 146, 144, 144, 144, 146, 150, 154, 156, 158, 159, 160, 163, 163, 166, 169, 170, 170, 168, 163, 159, 156, 152],
+					"all_points_y": [156, 158, 160, 162, 164, 167, 171, 174, 176, 179, 179, 177, 175, 173, 169, 166, 163, 160, 158, 155, 154, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00473.PNG67528": {
+			"filename": "00473.PNG",
+			"size": 67528,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 149, 153, 156, 157, 158, 159, 160, 161, 162, 164, 164, 164, 165, 167, 168, 168, 166, 161, 156, 152],
+					"all_points_y": [150, 151, 154, 157, 162, 165, 168, 171, 172, 171, 170, 166, 163, 161, 159, 157, 155, 152, 149, 148, 147, 147, 148]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [135, 135, 136, 139, 143, 145, 149, 142, 142, 142, 137, 135],
+					"all_points_y": [142, 146, 148, 150, 150, 150, 149, 147, 147, 147, 144, 142]
+				},
+				"region_attributes": {
+					"A3": "size of herniation"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00475.PNG53126": {
+			"filename": "00475.PNG",
+			"size": 53126,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 150, 152, 158, 161, 163, 163, 166, 168, 170, 171, 170, 167, 162, 158, 153],
+					"all_points_y": [161, 164, 167, 171, 173, 177, 178, 178, 178, 176, 173, 169, 166, 162, 159, 158, 158, 159]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00476.PNG63091": {
+			"filename": "00476.PNG",
+			"size": 63091,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 153, 153, 154, 154, 157, 159, 159, 160, 162, 164, 165, 166, 166, 167, 168, 169, 171, 171, 170, 168, 164, 160, 157],
+					"all_points_y": [153, 155, 157, 160, 160, 163, 165, 165, 168, 170, 172, 172, 171, 169, 167, 166, 165, 161, 158, 155, 152, 150, 150, 151]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0476.PNG60540": {
+			"filename": "0476.PNG",
+			"size": 60540,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 148, 148, 149, 152, 156, 159, 160, 161, 163, 164, 164, 165, 167, 170, 173, 173, 173, 171, 168, 160, 154],
+					"all_points_y": [158, 160, 161, 163, 166, 168, 171, 173, 177, 179, 179, 175, 175, 172, 169, 167, 164, 162, 160, 158, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00480.PNG62888": {
+			"filename": "00480.PNG",
+			"size": 62888,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 146, 146, 146, 148, 150, 153, 157, 158, 159, 160, 161, 162, 163, 163, 165, 166, 167, 170, 172, 173, 173, 172, 170, 164, 156, 151],
+					"all_points_y": [157, 159, 161, 163, 165, 167, 169, 172, 173, 174, 175, 178, 179, 178, 175, 173, 171, 169, 167, 165, 163, 161, 158, 156, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0480.PNG55736": {
+			"filename": "0480.PNG",
+			"size": 55736,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 149, 151, 154, 158, 161, 163, 164, 168, 171, 172, 172, 170, 163, 156, 152],
+					"all_points_y": [158, 160, 164, 167, 169, 172, 174, 176, 176, 175, 170, 166, 164, 160, 157, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00481.PNG60064": {
+			"filename": "00481.PNG",
+			"size": 60064,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 148, 148, 149, 152, 155, 158, 159, 159, 160, 161, 162, 162, 162, 163, 165, 168, 170, 170, 169, 167, 162, 157, 153],
+					"all_points_y": [158, 161, 164, 166, 170, 173, 175, 178, 182, 183, 183, 182, 180, 177, 174, 171, 168, 165, 163, 159, 157, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00484.PNG57261": {
+			"filename": "00484.PNG",
+			"size": 57261,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [147, 145, 145, 145, 146, 149, 152, 153, 155, 156, 158, 160, 162, 165, 167, 168, 168, 166, 160, 155],
+					"all_points_y": [167, 169, 171, 174, 177, 181, 184, 187, 189, 189, 189, 186, 182, 179, 177, 175, 172, 170, 167, 166]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00485.PNG61671": {
+			"filename": "00485.PNG",
+			"size": 61671,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 147, 146, 146, 148, 151, 155, 158, 160, 162, 164, 167, 168, 168, 167, 163, 158, 152],
+					"all_points_y": [157, 158, 160, 162, 165, 169, 173, 176, 176, 173, 170, 167, 164, 161, 159, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00486.PNG56279": {
+			"filename": "00486.PNG",
+			"size": 56279,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [150, 149, 148, 148, 150, 153, 155, 157, 159, 160, 161, 162, 162, 164, 166, 168, 170, 170, 169, 166, 160, 155],
+					"all_points_y": [155, 156, 158, 160, 163, 165, 167, 169, 173, 175, 175, 173, 173, 169, 166, 163, 160, 157, 155, 153, 152, 153]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00487.PNG65098": {
+			"filename": "00487.PNG",
+			"size": 65098,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 155, 155, 155, 156, 159, 161, 163, 165, 166, 167, 168, 170, 170, 171, 172, 174, 177, 178, 178, 176, 173, 169, 165, 160],
+					"all_points_y": [163, 165, 168, 170, 172, 175, 177, 179, 182, 184, 184, 184, 181, 181, 179, 177, 175, 172, 169, 166, 163, 161, 160, 160, 161]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0487.PNG58116": {
+			"filename": "0487.PNG",
+			"size": 58116,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 146, 146, 147, 151, 156, 158, 160, 161, 162, 163, 164, 165, 168, 171, 173, 173, 172, 170, 164, 158, 152],
+					"all_points_y": [153, 155, 157, 160, 162, 165, 170, 173, 178, 179, 178, 175, 172, 170, 167, 164, 161, 158, 155, 153, 151, 151, 152]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00490.PNG59959": {
+			"filename": "00490.PNG",
+			"size": 59959,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 149, 149, 151, 155, 157, 158, 159, 161, 162, 163, 164, 165, 167, 171, 172, 172, 170, 168, 164, 159, 154],
+					"all_points_y": [156, 159, 162, 165, 168, 170, 172, 175, 178, 180, 180, 178, 176, 174, 171, 167, 165, 161, 158, 156, 154, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0490.PNG56709": {
+			"filename": "0490.PNG",
+			"size": 56709,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 146, 145, 144, 145, 147, 150, 153, 155, 157, 157, 159, 159, 161, 163, 164, 166, 169, 170, 170, 169, 167, 163, 158, 152],
+					"all_points_y": [157, 159, 161, 163, 166, 168, 171, 175, 180, 184, 184, 184, 184, 181, 177, 174, 171, 168, 165, 163, 160, 158, 156, 155, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00492.PNG62949": {
+			"filename": "00492.PNG",
+			"size": 62949,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 1,
+					"width": 316,
+					"height": 305
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00493.PNG57261": {
+			"filename": "00493.PNG",
+			"size": 57261,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [146, 145, 145, 145, 147, 150, 153, 154, 155, 157, 159, 161, 163, 166, 167, 167, 166, 162, 158, 152, 148],
+					"all_points_y": [168, 170, 173, 175, 178, 181, 185, 188, 189, 189, 187, 184, 181, 178, 176, 173, 170, 167, 166, 166, 167]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00494.PNG55127": {
+			"filename": "00494.PNG",
+			"size": 55127,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [144, 142, 142, 143, 146, 151, 154, 156, 158, 159, 160, 162, 162, 165, 169, 170, 170, 169, 166, 159, 156, 151, 148],
+					"all_points_y": [166, 168, 171, 173, 176, 180, 183, 187, 191, 192, 191, 184, 184, 179, 175, 172, 169, 167, 165, 163, 163, 163, 164]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0494.PNG57770": {
+			"filename": "0494.PNG",
+			"size": 57770,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 146, 146, 146, 148, 151, 156, 158, 159, 159, 160, 161, 162, 164, 166, 170, 172, 173, 173, 172, 169, 163, 157, 151],
+					"all_points_y": [155, 157, 159, 162, 164, 166, 169, 171, 174, 176, 178, 178, 176, 172, 169, 167, 165, 163, 160, 157, 155, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00495.PNG60102": {
+			"filename": "00495.PNG",
+			"size": 60102,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [132, 131, 131, 132, 136, 140, 142, 143, 143, 144, 146, 149, 153, 154, 152, 148, 143, 139, 136],
+					"all_points_y": [158, 160, 162, 165, 169, 174, 177, 179, 179, 179, 175, 169, 165, 161, 158, 156, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00497.PNG57729": {
+			"filename": "00497.PNG",
+			"size": 57729,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 152, 152, 153, 157, 160, 161, 161, 162, 163, 164, 166, 167, 169, 171, 172, 172, 170, 166, 161, 157],
+					"all_points_y": [156, 158, 160, 163, 167, 170, 172, 172, 177, 177, 176, 172, 170, 167, 164, 162, 159, 156, 154, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00498.PNG65098": {
+			"filename": "00498.PNG",
+			"size": 65098,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 155, 154, 155, 157, 160, 164, 165, 166, 167, 169, 170, 171, 172, 173, 175, 177, 178, 178, 176, 171, 165, 160],
+					"all_points_y": [163, 165, 168, 171, 174, 177, 179, 181, 183, 184, 184, 182, 179, 177, 175, 173, 171, 168, 165, 162, 160, 159, 160]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00499.PNG64326": {
+			"filename": "00499.PNG",
+			"size": 64326,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 151, 151, 152, 154, 159, 160, 162, 163, 165, 167, 168, 168, 166, 164, 160, 156],
+					"all_points_y": [156, 158, 160, 163, 166, 171, 172, 172, 170, 166, 163, 161, 159, 156, 155, 154, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00500.PNG58122": {
+			"filename": "00500.PNG",
+			"size": 58122,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 3,
+					"width": 316,
+					"height": 302
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0501.PNG53135": {
+			"filename": "0501.PNG",
+			"size": 53135,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 148, 150, 154, 158, 160, 162, 164, 165, 166, 168, 170, 172, 172, 170, 166, 161, 157, 152],
+					"all_points_y": [158, 160, 161, 164, 167, 170, 174, 180, 183, 183, 183, 180, 173, 168, 165, 162, 158, 155, 154, 154, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00502.PNG61992": {
+			"filename": "00502.PNG",
+			"size": 61992,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [154, 152, 152, 152, 153, 155, 158, 160, 162, 163, 164, 165, 167, 170, 173, 174, 173, 169, 164, 160, 157],
+					"all_points_y": [159, 162, 164, 166, 168, 170, 173, 174, 176, 178, 178, 178, 175, 171, 166, 163, 160, 157, 156, 156, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00503.PNG62949": {
+			"filename": "00503.PNG",
+			"size": 62949,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 1,
+					"width": 315,
+					"height": 306
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00505.PNG57730": {
+			"filename": "00505.PNG",
+			"size": 57730,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 148, 148, 150, 154, 157, 157, 160, 161, 162, 163, 166, 169, 170, 170, 169, 166, 161, 155],
+					"all_points_y": [154, 156, 159, 162, 164, 168, 168, 174, 174, 173, 172, 167, 162, 160, 157, 155, 153, 152, 152]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00506.PNG60102": {
+			"filename": "00506.PNG",
+			"size": 60102,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [133, 131, 131, 133, 137, 140, 142, 143, 144, 145, 147, 148, 150, 152, 153, 153, 150, 146, 140, 135],
+					"all_points_y": [157, 160, 163, 166, 170, 174, 177, 179, 179, 177, 174, 171, 169, 166, 163, 160, 157, 155, 155, 156]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0506.PNG56324": {
+			"filename": "0506.PNG",
+			"size": 56324,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [157, 155, 155, 156, 158, 160, 161, 162, 163, 164, 165, 166, 167, 170, 171, 170, 168, 165, 161],
+					"all_points_y": [158, 160, 163, 165, 167, 168, 171, 174, 175, 175, 173, 170, 167, 163, 161, 159, 158, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}, {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [128, 129, 130, 131, 133, 137, 139, 143, 149, 149, 142, 137, 133, 128],
+					"all_points_y": [141, 148, 152, 156, 158, 159, 159, 158, 157, 157, 153, 150, 146, 141]
+				},
+				"region_attributes": {
+					"A3": "size of herniation"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00507.PNG59064": {
+			"filename": "00507.PNG",
+			"size": 59064,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [148, 147, 147, 148, 150, 154, 156, 157, 158, 160, 162, 166, 168, 169, 169, 167, 163, 158, 152],
+					"all_points_y": [161, 163, 166, 169, 172, 176, 179, 180, 180, 178, 173, 170, 168, 166, 164, 161, 159, 159, 159]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00510.PNG59282": {
+			"filename": "00510.PNG",
+			"size": 59282,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [152, 150, 149, 149, 151, 154, 158, 160, 161, 161, 162, 163, 164, 165, 167, 170, 171, 174, 175, 175, 174, 171, 165, 161, 157],
+					"all_points_y": [157, 159, 161, 163, 166, 169, 172, 175, 178, 178, 181, 181, 180, 178, 173, 170, 169, 167, 165, 162, 159, 156, 154, 154, 155]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0510.PNG62036": {
+			"filename": "0510.PNG",
+			"size": 62036,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [158, 154, 152, 151, 151, 152, 154, 157, 159, 161, 164, 166, 168, 168, 167, 165, 162],
+					"all_points_y": [157, 157, 158, 159, 161, 163, 167, 171, 172, 172, 169, 166, 162, 160, 158, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00511.PNG84959": {
+			"filename": "00511.PNG",
+			"size": 84959,
+			"regions": [{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 2,
+					"y": 2,
+					"width": 316,
+					"height": 304
+				},
+				"region_attributes": {
+					"A3": "defective"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00513.PNG55913": {
+			"filename": "00513.PNG",
+			"size": 55913,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 149, 149, 150, 152, 155, 158, 161, 162, 163, 167, 169, 171, 172, 172, 171, 167, 163, 159, 155],
+					"all_points_y": [156, 158, 160, 163, 165, 168, 170, 172, 173, 173, 169, 167, 165, 163, 159, 157, 154, 153, 153, 154]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00514.PNG61992": {
+			"filename": "00514.PNG",
+			"size": 61992,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [156, 153, 152, 152, 153, 156, 160, 162, 163, 165, 165, 168, 171, 173, 173, 171, 167, 162, 159],
+					"all_points_y": [158, 161, 163, 166, 168, 171, 174, 176, 179, 179, 179, 174, 169, 165, 162, 159, 157, 157, 157]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"00515.PNG55472": {
+			"filename": "00515.PNG",
+			"size": 55472,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [151, 150, 150, 151, 156, 161, 163, 165, 166, 167, 170, 174, 176, 176, 174, 170, 161, 158, 153],
+					"all_points_y": [149, 151, 154, 156, 159, 164, 167, 170, 170, 166, 161, 157, 154, 151, 148, 146, 146, 146, 147]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		},
+		"0515.PNG58429": {
+			"filename": "0515.PNG",
+			"size": 58429,
+			"regions": [{
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [149, 147, 146, 147, 149, 153, 156, 157, 158, 159, 160, 161, 162, 164, 167, 169, 170, 170, 168, 165, 158, 152],
+					"all_points_y": [161, 163, 165, 168, 171, 175, 178, 181, 184, 184, 184, 181, 177, 174, 171, 169, 167, 164, 162, 160, 160, 160]
+				},
+				"region_attributes": {
+					"A3": "size of spinal canal"
+				}
+			}],
+			"file_attributes": {}
+		}
+	},
+	"_via_attributes": {
+		"region": {
+			"size": {
+				"type": "radio",
+				"description": "",
+				"options": {
+					"size of spinal canal": "",
+					"size of neuroforaminal": "",
+					"size of herniation": "",
+					"defective": ""
+				},
+				"default_options": {
+					"spinal canal": true
+				}
+			}
+		},
+		"file": {}
+	}
+}
