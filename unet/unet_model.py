@@ -24,6 +24,8 @@ class UNet(nn.Module):
         self.up4 = Up(128, 64, bilinear)
         self.outc = OutConv(64, n_classes)
         
+        self.dim = 1
+        
         
         self.num_classes = n_classes
         
@@ -51,6 +53,8 @@ class UNet(nn.Module):
         self.bottleneck5_1 = branchBottleNeck(1024 , self.num_classes , kernel_size=2)
         self.avgpool5 = nn.AdaptiveAvgPool2d((1,1))
         self.soft5 = Softmax_layer(dim=1)
+        
+        self.soft_fin = Softmax_layer(dim=1)
         
         
         for m in self.modules():
@@ -108,6 +112,8 @@ class UNet(nn.Module):
         x = self.up2(x, x3)
         x = self.up3(x, x2)
         x = self.up4(x, x1)
+        
+        x = self.soft_fin(x)
         
         logits = self.outc(x)
         

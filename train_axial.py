@@ -28,15 +28,24 @@ dir_checkpoint = 'ckpts_dir/axial_ckpts/'
 
 img_scale = 1
 
+temperature = 3
 
-def kd_loss_function(output, target_output,args):
+alpha = 0.1
+beta = 1e-6
+
+warm_up = True
+lr_param = 0.1
+step_ratio = 0.1
+
+
+def kd_loss_function(output, target_output,temp):
     """Compute kd loss"""
     """
     para: output: middle ouptput logits.
     para: target_output: final output has divided by temperature and softmax.
     """
 
-    output = output / args.temperature
+    output = output / temperature
     output_log_softmax = torch.log_softmax(output, dim=1)
     loss_kd = -torch.mean(torch.sum(output_log_softmax * target_output, dim=1))
     return loss_kd
@@ -63,9 +72,48 @@ class AverageMeter(object):
         self.count += n
         self.avg = self.sum / self.count
         
+def adjust_learning_rate(warm_up, lr_param, step_ratio, optimizer, epoch):
+    if warm_up and (epoch < 1):
+        lr = 0.01
+    elif 75 <= epoch < 130:
+        lr = lr_param * (step_ratio ** 1)
+    elif 130 <= epoch < 180:
+        lr = lr_param * (step_ratio ** 2)
+    elif epoch >=180:
+        lr = lr_param * (step_ratio ** 3)
+    else:
+        lr = lr_param
+
+    
+    logging.info('Epoch [{}] learning rate = {}'.format(epoch, lr))
+    
+    for param_group in optimizer.param_groups:
+        param_group['lr'] = lr
         
         
-    def train_net(net,
+def accuracy(output, target, topk=(1,)):
+    maxk = max(topk)
+    batch_size = target.size(0)
+    _, pred = output.topk(maxk, 1, True, True)  
+    pred = pred.t()
+    correct = pred.eq(target.view(1, -1).expand_as(pred))  
+
+    res = []
+    for k in topk:
+        correct_k = correct[:k].view(-1).float().sum(0)
+        res.append(correct_k.mul(100.0 / batch_size))
+    
+    return res
+
+def save_checkpoint(state, is_best, filename):
+    torch.save(state, filename)
+    if is_best:
+        save_path = os.path.dirname(filename)
+        shutil.copyfile(filename, os.path.join(save_path, 'model_best.path.tar'))
+        
+        
+        
+def train_net(net,
               device,
               epochs=5,
               batch_size=1,
@@ -112,9 +160,64 @@ class AverageMeter(object):
                 imgs = imgs.to(device=device).float()
                 true_masks = true_masks.to(device=device).float()
 
-                masks_pred = net.module(imgs)
-                loss = criterion(masks_pred, true_masks)
-                epoch_loss += loss.item()
+                
+                
+                
+                
+                
+                masks_pred, btn1, btn2, btn3, btn4, btn5, soft_out1, soft_out2, soft_out3, soft_out4, soft_out5 = net.module(imgs)
+                
+                
+                loss_original = criterion(masks_pred, true_masks)
+                loss_orig_soft1 = criterion(soft_out1, true_masks)
+                loss_orig_soft2 = criterion(soft_out2, true_masks)
+                loss_orig_soft3 = criterion(soft_out3, true_masks)
+                loss_orig_soft4 = criterion(soft_out4, true_masks)
+                loss_orig_soft5 = criterion(soft_out5, true_masks)
+                
+                temp4 = masks_pred / temperature
+                temp4 = torch.softmax(temp4, dim=1)
+                
+                
+                loss1by6 = kd_loss_function(soft_out1, temp4.detach(), temperature) * (temperature**2)
+#                 losses1_kd.update(loss1by4, input.size(0))
+
+                loss2by6 = kd_loss_function(soft_out2, temp4.detach(), temperature) * (temperature**2)
+#                 losses2_kd.update(loss2by4, input.size(0))
+
+                loss3by6 = kd_loss_function(soft_out3, temp4.detach(), temperature) * (temperature**2)
+#                 losses3_kd.update(loss3by4, input.size(0))
+                
+                loss4by6 = kd_loss_function(soft_out4, temp4.detach(), temperature) * (temperature**2)
+#                 losses4_kd.update(loss2by4, input.size(0))
+
+                loss5by6 = kd_loss_function(soft_out5, temp4.detach(), temperature) * (temperature**2)
+#                 losses5_kd.update(loss3by4, input.size(0))
+
+                feature_loss_1 = feature_loss_function(btn1, masks_pred.detach()) 
+#                 feature_losses_1.update(feature_loss_1, input.size(0))
+                feature_loss_2 = feature_loss_function(btn2, masks_pred.detach()) 
+#                 feature_losses_2.update(feature_loss_2, input.size(0))
+                feature_loss_3 = feature_loss_function(btn3, masks_pred.detach()) 
+#                 feature_losses_3.update(feature_loss_3, input.size(0))
+                feature_loss_4 = feature_loss_function(btn4, masks_pred.detach()) 
+#                 feature_losses_4.update(feature_loss_2, input.size(0))
+                feature_loss_5 = feature_loss_function(btn5, masks_pred.detach()) 
+#                 feature_losses_5.update(feature_loss_3, input.size(0))
+
+
+# по идее эти странные (и пока непонятные мне по логике использования) апдейты относятся к writer.add_scalar(_loss.avg, step) и к заведенному классу AverageMeter. Что-то мне подсказывает, что юнет и без них хорошо жил
+
+                total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4 + loss_orig_soft5) + \
+                            alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6 + loss5by6) + \
+                            beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4 + feature_loss_5)
+#                 total_losses.update(total_loss.item(), input.size(0))
+                
+                
+                
+                
+#                 epoch_loss += loss.item()
+                epoch_loss += total_loss.item()
 
                 writer.add_scalar('Loss/train', loss.item(), global_step)
 
@@ -150,6 +253,7 @@ class AverageMeter(object):
                         writer.add_images('masks/pred', torch.sigmoid(masks_pred) > 0.5, global_step)
 
         print(f'epoch_loss = {epoch_loss}')
+        
         if save_cp:
             try:
                 os.mkdir(dir_checkpoint)
@@ -175,8 +279,6 @@ if __name__ == '__main__':
     os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 
     logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
-    
-    print('now we are here!')
     print('I see' , torch.cuda.device_count(), ' gpus!')
     
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -187,10 +289,8 @@ if __name__ == '__main__':
     if torch.cuda.device_count() > 1:
         print("Let's use", torch.cuda.device_count(), "GPUs!")
         net = nn.DataParallel(net)
-        print('we are already here!')
 
     net.to(device)
-    print('and we are here!')
 
     epochs = 150
     batch_size = 4
