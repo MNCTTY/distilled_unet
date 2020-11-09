@@ -19,10 +19,13 @@ from torch.utils.data import DataLoader, random_split
 
 from IPython.display import clear_output
 
+# dir_train_img = '/home/natasha/unet4/axial_data/train/'
 
-dir_train_img = '/home/natasha/unet4/axial_data/train/'
+# dir_val_img = '/home/natasha/unet4/axial_data/val/'
 
-dir_val_img = '/home/natasha/unet4/axial_data/val/'
+dir_train_img = '/home/natasha/unet4/axial_data_new/train/'
+
+dir_val_img = '/home/natasha/unet4/axial_data_new/val/'
 
 dir_checkpoint = 'ckpts_dir/axial_ckpts/'
 
@@ -163,17 +166,18 @@ def train_net(net,
                 
                 
                 
+#                 btn5,
+# , soft_out5
                 
-                
-                masks_pred, btn1, btn2, btn3, btn4, btn5, soft_out1, soft_out2, soft_out3, soft_out4, soft_out5 = net.module(imgs)
+                masks_pred, btn1, btn2, btn3, btn4, soft_out1, soft_out2, soft_out3, soft_out4 = net.module(imgs)
                 
                 
                 loss_original = criterion(masks_pred, true_masks)
-                loss_orig_soft1 = criterion(soft_out1, true_masks)
-                loss_orig_soft2 = criterion(soft_out2, true_masks)
-                loss_orig_soft3 = criterion(soft_out3, true_masks)
-                loss_orig_soft4 = criterion(soft_out4, true_masks)
-                loss_orig_soft5 = criterion(soft_out5, true_masks)
+#                 loss_orig_soft1 = criterion(soft_out1, true_masks)
+#                 loss_orig_soft2 = criterion(soft_out2, true_masks)
+#                 loss_orig_soft3 = criterion(soft_out3, true_masks)
+#                 loss_orig_soft4 = criterion(soft_out4, true_masks)
+#                 loss_orig_soft5 = criterion(soft_out5, true_masks)
                 
                 temp4 = masks_pred / temperature
                 temp4 = torch.softmax(temp4, dim=1)
@@ -191,7 +195,7 @@ def train_net(net,
                 loss4by6 = kd_loss_function(soft_out4, temp4.detach(), temperature) * (temperature**2)
 #                 losses4_kd.update(loss2by4, input.size(0))
 
-                loss5by6 = kd_loss_function(soft_out5, temp4.detach(), temperature) * (temperature**2)
+#                 loss5by6 = kd_loss_function(soft_out5, temp4.detach(), temperature) * (temperature**2)
 #                 losses5_kd.update(loss3by4, input.size(0))
 
                 feature_loss_1 = feature_loss_function(btn1, masks_pred.detach()) 
@@ -202,15 +206,24 @@ def train_net(net,
 #                 feature_losses_3.update(feature_loss_3, input.size(0))
                 feature_loss_4 = feature_loss_function(btn4, masks_pred.detach()) 
 #                 feature_losses_4.update(feature_loss_2, input.size(0))
-                feature_loss_5 = feature_loss_function(btn5, masks_pred.detach()) 
+                
+    
+#                 feature_loss_5 = feature_loss_function(btn5, masks_pred.detach()) 
 #                 feature_losses_5.update(feature_loss_3, input.size(0))
 
 
 # по идее эти странные (и пока непонятные мне по логике использования) апдейты относятся к writer.add_scalar(_loss.avg, step) и к заведенному классу AverageMeter. Что-то мне подсказывает, что юнет и без них хорошо жил
 
-                total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4 + loss_orig_soft5) + \
-                            alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6 + loss5by6) + \
-                            beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4 + feature_loss_5)
+#                 total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4 + loss_orig_soft5) + \
+#                             alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6 + loss5by6) + \
+#                             beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4 + feature_loss_5)
+    
+#                 total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4) + \
+#                             alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6) + \
+#                             beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4)
+                total_loss = (1 - alpha) * (loss_original)+ \
+                            alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6) + \
+                            beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4)
 #                 total_losses.update(total_loss.item(), input.size(0))
                 
                 
@@ -219,12 +232,12 @@ def train_net(net,
 #                 epoch_loss += loss.item()
                 epoch_loss += total_loss.item()
 
-                writer.add_scalar('Loss/train', loss.item(), global_step)
+                writer.add_scalar('Loss/train', total_loss.item(), global_step)
 
-                pbar.set_postfix(**{'loss (batch)': loss.item()})
+                pbar.set_postfix(**{'loss (batch)': total_loss.item()})
 
                 optimizer.zero_grad()
-                loss.backward()
+                total_loss.backward()
                 nn.utils.clip_grad_value_(net.module.parameters(), 0.1)
                 optimizer.step()
 

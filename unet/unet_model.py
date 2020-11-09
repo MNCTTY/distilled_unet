@@ -3,6 +3,7 @@
 import torch.nn.functional as F
 
 from .unet_parts import *
+import torch.nn as nn
 
  
 class UNet(nn.Module):
@@ -33,28 +34,34 @@ class UNet(nn.Module):
         
         self.avgpool1 = nn.AdaptiveAvgPool2d((1,1))
 #         self.middle_fc1 = nn.Linear(self.num_classes, num_classes)
-        self.soft1 = Softmax_layer(dim=1)
+#         self.soft1 = Softmax_layer(dim = 1)
+        self.soft1 = nn.Softmax(dim=1)
         
         self.bottleneck2_1 = branchBottleNeck(128 , self.num_classes , kernel_size=16)
         self.avgpool2 = nn.AdaptiveAvgPool2d((1,1))
 #         self.middle_fc2 = nn.Linear(512 * block.expansion, num_classes)
-        self.soft2 = Softmax_layer(dim=1)
+#         self.soft2 = Softmax_layer(dim=1)
+        self.soft2 = nn.Softmax(dim=1)
         
         self.bottleneck3_1 = branchBottleNeck(256 , self.num_classes , kernel_size=8)
         self.avgpool3 = nn.AdaptiveAvgPool2d((1,1))
 #         self.middle_fc3 = nn.Linear(512 * block.expansion, num_classes)
-        self.soft3 = Softmax_layer(dim=1)
+#         self.soft3 = Softmax_layer(dim=1)
+        self.soft3 = nn.Softmax(dim=1)
         
         self.bottleneck4_1 = branchBottleNeck(512 , self.num_classes , kernel_size=4)
         self.avgpool4 = nn.AdaptiveAvgPool2d((1,1))
 #         self.middle_fc4 = nn.Linear(512 * block.expansion, num_classes)
-        self.soft4 = Softmax_layer(dim=1)
+#         self.soft4 = Softmax_layer(dim=1)
+        self.soft4 = nn.Softmax(dim=1)
 
         self.bottleneck5_1 = branchBottleNeck(1024 , self.num_classes , kernel_size=2)
         self.avgpool5 = nn.AdaptiveAvgPool2d((1,1))
-        self.soft5 = Softmax_layer(dim=1)
+#         self.soft5 = Softmax_layer(dim=1)
+        self.soft5 = nn.Softmax(dim=1)
         
-        self.soft_fin = Softmax_layer(dim=1)
+#         self.soft_fin = Softmax_layer(dim=1)
+        self.soft_fin = nn.Softmax(dim=1)
         
         
         for m in self.modules():
@@ -103,9 +110,9 @@ class UNet(nn.Module):
         soft_out4 = self.soft4(btn4)
 
         x5 = self.down4(x4)
-        btn5 = self.bottleneck5_1(x5)
-        btn5 = self.avgpool5(btn5)
-        soft_out5 = self.soft5(btn5)
+#         btn5 = self.bottleneck5_1(x5)
+#         btn5 = self.avgpool5(btn5)
+#         soft_out5 = self.soft5(btn5)
 
         
         x = self.up1(x5, x4)
@@ -117,6 +124,8 @@ class UNet(nn.Module):
         
         logits = self.outc(x)
         
-        return logits, btn1, btn2, btn3, btn4, btn5, soft_out1, soft_out2, soft_out3, soft_out4, soft_out5
+#         btn5,
+        
+        return logits, btn1, btn2, btn3, btn4, soft_out1, soft_out2, soft_out3, soft_out4 #, soft_out5
 
     
