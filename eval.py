@@ -9,8 +9,7 @@ from dice_loss import dice_coeff
 def eval_net(net, loader, device):
     """Evaluation without the densecrf with the dice coefficient"""
     net.module.eval()
-    # mask_type = torch.float32 if net.n_classes <= 2 else torch.long
-    n_val = len(loader)  # the number of batch
+    n_val = len(loader)
     tot = 0
     criterion = nn.BCEWithLogitsLoss()
 
@@ -19,9 +18,10 @@ def eval_net(net, loader, device):
             imgs, true_masks = batch['image'], batch['mask']
             imgs = imgs.to(device=device).float()
             true_masks = true_masks.to(device=device).float()
+          
 
             with torch.no_grad():
-                mask_pred = net(imgs)
+                mask_pred = net(imgs)[0] #dont ask 
 
             if net.module.n_classes > 2:
                 tot += criterion(mask_pred, true_masks).item()

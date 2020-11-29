@@ -38,12 +38,10 @@ class BasicDataset(Dataset):
         # HWC to CHW
         if not mask:
             img_or_mask = np.array(img_or_mask)
-#             print(f'image shape = {img_or_mask.shape}')
             img_or_mask = np.expand_dims(img_or_mask, axis=2)
 
         else:
             img_or_mask = img_or_mask
-#         img_trans = img_nd.transpose((2, 0, 1))
         img_or_mask = img_or_mask.transpose((2, 0, 1))
         if img_or_mask.max() > 1:
             img_or_mask = img_or_mask / 255
@@ -51,13 +49,7 @@ class BasicDataset(Dataset):
         return img_or_mask
 
     def __getitem__(self, i):
-#         idx = self.ids[i]
-#         try:
-#             mask_file = glob(os.path.join(self.masks_dir, f'{idx}.npy'))[0]
-#             img_file = glob(os.path.join(self.imgs_dir, f'{idx}.PNG'))[0]
-#         except:
-#             print(f'{self.masks_dir}{idx}.npy')
-#             mask_file = f'{self.masks_dir}{idx}.npy'
+
         mask_file = self.mask_paths[i]
         img_file = self.img_paths[i]
 
@@ -75,17 +67,13 @@ class BasicDataset(Dataset):
         xx = (ww - wd_m) // 2
         yy = (hh - ht_m) // 2
 
-        # print(f'result_mask.shape = {mask.shape}')
         result_mask = np.pad(mask, ((xx, xx),(yy, yy), (0, 0)))
-        # print(f'result_mask.shape after padding = {result_mask.shape}')
         
         xx = (ww - wd_im) // 2
         yy = (hh - ht_im) // 2
 
         img = np.array(img)
-        # print(f'result_img.shape = {img.shape}')
         result_img = np.pad(img, ((yy, yy),(xx, xx)))
-        # print(f'result_img.shape after padding = {result_img.shape}')
         result_img = Image.fromarray(np.uint8(result_img))
 
         result_img = self.preprocess(result_img)
@@ -97,5 +85,3 @@ class BasicDataset(Dataset):
             'mask': torch.from_numpy(result_mask).type(torch.long)
         }
     
-#         return {'image': torch.from_numpy(img), 'mask': torch.from_numpy(mask)}
-

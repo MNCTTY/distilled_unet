@@ -19,13 +19,9 @@ from torch.utils.data import DataLoader, random_split
 
 from IPython.display import clear_output
 
-# dir_train_img = '/home/natasha/unet4/axial_data/train/'
+dir_train_img = '/home/natasha/unet/axial_data_new/train/'
 
-# dir_val_img = '/home/natasha/unet4/axial_data/val/'
-
-dir_train_img = '/home/natasha/unet4/axial_data_new/train/'
-
-dir_val_img = '/home/natasha/unet4/axial_data_new/val/'
+dir_val_img = '/home/natasha/unet/axial_data_new/val/'
 
 dir_checkpoint = 'ckpts_dir/axial_ckpts/'
 
@@ -41,7 +37,7 @@ lr_param = 0.1
 step_ratio = 0.1
 
 
-def kd_loss_function(output, target_output,temp):
+def kd_loss_function(output, target_output, temp):
     """Compute kd loss"""
     """
     para: output: middle ouptput logits.
@@ -56,24 +52,6 @@ def kd_loss_function(output, target_output,temp):
 def feature_loss_function(fea, target_fea):
     loss = (fea - target_fea)**2 * ((fea > 0) | (target_fea > 0)).float()
     return torch.abs(loss).sum()
-
-class AverageMeter(object):
-    """Computes and stores the average and current value"""
-
-    def __init__(self):
-        self.reset()
-
-    def reset(self):
-        self.val = 0
-        self.avg = 0
-        self.sum = 0
-        self.count = 0
-
-    def update(self, val, n=1):
-        self.val = val
-        self.sum += val * n
-        self.count += n
-        self.avg = self.sum / self.count
         
 def adjust_learning_rate(warm_up, lr_param, step_ratio, optimizer, epoch):
     if warm_up and (epoch < 1):
@@ -162,17 +140,11 @@ def train_net(net,
 
                 imgs = imgs.to(device=device).float()
                 true_masks = true_masks.to(device=device).float()
-
-                
-                
-                
-#                 btn5,
-# , soft_out5
-                
-                masks_pred, btn1, btn2, btn3, btn4, soft_out1, soft_out2, soft_out3, soft_out4 = net.module(imgs)
-                
-                
+            
+                masks_pred, soft_fin, btn1, btn2, btn3, btn4, soft_out1, soft_out2, soft_out3, soft_out4 = net.module(imgs)
+            
                 loss_original = criterion(masks_pred, true_masks)
+                
 #                 loss_orig_soft1 = criterion(soft_out1, true_masks)
 #                 loss_orig_soft2 = criterion(soft_out2, true_masks)
 #                 loss_orig_soft3 = criterion(soft_out3, true_masks)
@@ -184,52 +156,25 @@ def train_net(net,
                 
                 
                 loss1by6 = kd_loss_function(soft_out1, temp4.detach(), temperature) * (temperature**2)
-#                 losses1_kd.update(loss1by4, input.size(0))
-
                 loss2by6 = kd_loss_function(soft_out2, temp4.detach(), temperature) * (temperature**2)
-#                 losses2_kd.update(loss2by4, input.size(0))
-
-                loss3by6 = kd_loss_function(soft_out3, temp4.detach(), temperature) * (temperature**2)
-#                 losses3_kd.update(loss3by4, input.size(0))
-                
+                loss3by6 = kd_loss_function(soft_out3, temp4.detach(), temperature) * (temperature**2)                
                 loss4by6 = kd_loss_function(soft_out4, temp4.detach(), temperature) * (temperature**2)
-#                 losses4_kd.update(loss2by4, input.size(0))
-
-#                 loss5by6 = kd_loss_function(soft_out5, temp4.detach(), temperature) * (temperature**2)
-#                 losses5_kd.update(loss3by4, input.size(0))
 
                 feature_loss_1 = feature_loss_function(btn1, masks_pred.detach()) 
-#                 feature_losses_1.update(feature_loss_1, input.size(0))
                 feature_loss_2 = feature_loss_function(btn2, masks_pred.detach()) 
-#                 feature_losses_2.update(feature_loss_2, input.size(0))
                 feature_loss_3 = feature_loss_function(btn3, masks_pred.detach()) 
-#                 feature_losses_3.update(feature_loss_3, input.size(0))
                 feature_loss_4 = feature_loss_function(btn4, masks_pred.detach()) 
-#                 feature_losses_4.update(feature_loss_2, input.size(0))
-                
-    
-#                 feature_loss_5 = feature_loss_function(btn5, masks_pred.detach()) 
-#                 feature_losses_5.update(feature_loss_3, input.size(0))
 
-
-# по идее эти странные (и пока непонятные мне по логике использования) апдейты относятся к writer.add_scalar(_loss.avg, step) и к заведенному классу AverageMeter. Что-то мне подсказывает, что юнет и без них хорошо жил
 
 #                 total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4 + loss_orig_soft5) + \
 #                             alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6 + loss5by6) + \
 #                             beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4 + feature_loss_5)
     
-#                 total_loss = (1 - alpha) * (loss_original + loss_orig_soft1 + loss_orig_soft2 + loss_orig_soft3 + loss_orig_soft4) + \
-#                             alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6) + \
-#                             beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4)
+
                 total_loss = (1 - alpha) * (loss_original)+ \
                             alpha * (loss1by6 + loss2by6 + loss3by6 + loss4by6) + \
                             beta * (feature_loss_1 + feature_loss_2 + feature_loss_3 + feature_loss_4)
-#                 total_losses.update(total_loss.item(), input.size(0))
                 
-                
-                
-                
-#                 epoch_loss += loss.item()
                 epoch_loss += total_loss.item()
 
                 writer.add_scalar('Loss/train', total_loss.item(), global_step)
@@ -246,8 +191,11 @@ def train_net(net,
                 if global_step % ((n_train + n_val) // (2 * batch_size)) == 0:
                     for tag, value in net.module.named_parameters():
                         tag = tag.replace('.', '/')
-                        writer.add_histogram('weights/' + tag, value.data.cpu().numpy(), global_step)
-                        writer.add_histogram('grads/' + tag, value.grad.data.cpu().numpy(), global_step)
+                        try:
+                            writer.add_histogram('weights/' + tag, value.data.cpu().numpy(), global_step)
+                            writer.add_histogram('grads/' + tag, value.grad.data.cpu().numpy(), global_step)
+                        except:
+                            print('smth goes wrong!')
 
                     val_score = eval_net(net, val_loader, device)
                     scheduler.step(val_score)
@@ -306,7 +254,7 @@ if __name__ == '__main__':
     net.to(device)
 
     epochs = 150
-    batch_size = 4
+    batch_size = 1
 
     load = False
 
